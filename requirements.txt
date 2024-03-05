@@ -1,6 +1,16 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+filelock==3.13.1
+idna==3.6
+Levenshtein==0.25.0
 numpy==1.26.4
 pandas==2.2.1
 python-dateutil==2.9.0.post0
 pytz==2024.1
+rapidfuzz==3.6.1
+requests==2.31.0
+requests-file==2.0.0
 six==1.16.0
+tldextract==5.1.1
 tzdata==2024.1
+urllib3==2.2.1
