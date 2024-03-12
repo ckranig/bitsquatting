@@ -42,7 +42,7 @@ def process_zdns(zdns_output_file: str, domain_to_ip_file: str, cymru_ip_file: s
 def get_team_cymru_data(ip_file: str, cyrmu_data_out_txt_file: str, cyrmu_data_out_pkl_file: str):
   if platform.system() == 'Windows':
     ip_file = os.path.abspath(ip_file)
-    run_str = ['type', ip_file + '|', 'wsl', 'netcat', 'whois.cymru.com', '43', '|', 'sort', '/unique', '>', cyrmu_data_out_txtfile]
+    run_str = ['type', ip_file + '|', 'wsl', 'netcat', 'whois.cymru.com', '43', '|', 'sort', '/unique', '>', cyrmu_data_out_txt_file]
   else:
     run_str = ["netcat", "whois.cymru.com", "43", "<", ip_file, "|", "sort", "-n", ">", cyrmu_data_out_txt_file]
   subprocess.check_output(run_str, shell=True)
