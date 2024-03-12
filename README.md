@@ -14,3 +14,6 @@ Prerequisites:
 * go 
 
 In order to easily use zdns in scripts add the zdns folder that you cloned to your path. 
+
+## Running
+Running full_run.py will generate all of the data required for analysis.
