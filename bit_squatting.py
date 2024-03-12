@@ -40,28 +40,25 @@ def _edits1(domain:str , allowed_characters: dict):
 
 def _gen_bitsquatted_domains(domain: str, max_dist: int, logging: bool = False):
   ret = {domain: 0}
-  levels = [[domain]]
+  levels = [{domain}]
   counts = [1]
   allowed_characters_at_level = []
   for cur_dist in range(1, max_dist+1):
     allowed_characters_at_level.append(generate_bitsquatting_keys_rfc1034(cur_dist))
     thisLevel = set()
     for j in range(cur_dist):
-      for d in levels[-j]:
+      #First get all additional l
+      for d in levels[-(j+1)]:
         thisLevel.update(_edits1(d, allowed_characters_at_level[j]))
-    
-    count = 0
-    cur_level = []
+
     thisLevel.discard('') #For edge case where single letter domains return an empty value
-    for typo_domain in thisLevel:
-      if typo_domain not in ret.keys():
-        cur_level.append(typo_domain)
-        ret[typo_domain] = cur_dist
-        count += 1
-    counts.append(count)
+    cur_level = thisLevel.difference(ret.keys())
+    for typo_domain in cur_level:
+      ret[typo_domain] = cur_dist
+    counts.append(len(cur_level))
     levels.append(cur_level)
     if logging:
-      print("finished {} domains within {} for {}".format(count, cur_dist, domain))
+      print("finished {} domains within {} for {}".format(len(cur_level), cur_dist, domain))
   return ret, counts
   
 def generate_bitsquatted_domains(
@@ -70,12 +67,12 @@ def generate_bitsquatted_domains(
   out_mapping_file: str = None,
   num_top_domains: str = 1000,
   duplicates_only: str = False,
-  max_levenshtein: int = 1,
+  max_bit_flips: int = 1,
   include_www_missing_dot: bool = True,
   logging: bool = False
 ):
   """
-  Function that takes in a top domain file and generates typo domains within given max_levenshtein distance.
+  Function that takes in a top domain file and generates typo domains within given max_bit_flips distance.
   
   Args:
     top_domain_file : str
@@ -83,12 +80,12 @@ def generate_bitsquatted_domains(
     out_domain_file: str, default 'data/typo_domains.txt'
       The file where typo domain strings will be written to for use by zdns.
     out_mapping_file: str, default None
-      A pkl file containing a DataFrame with columns 'Original Domain', 'Typo Domain', and 'Lev Distance'
+      A pkl file containing a DataFrame with columns 'Original Domain', 'Typo Domain', and 'bit Distance'
     num_top_domains: str, default 1000
       The number of top domains to generate typo domains for.
     duplicates_only: str, default False,
       If True insertions will only use duplicates.
-    max_levenshtein: int, default 1
+    max_bit_flips: int, default 1
       The maximum levenshtein distance generated typo domains will be from the original domain.
     include_www_missing_dot: bool, default True
       Include the missing dot domain of wwworiginal_domain in the output.
@@ -96,7 +93,7 @@ def generate_bitsquatted_domains(
     logging: bool, default False
       Will print extra logging information
   Returns:
-    output_mappings: dict
+    output_mappings: pd.DataFrame
       A dict containg the mappings of each typo domain to its list of original domains
   """
   etld_plus1s = []
@@ -114,15 +111,12 @@ def generate_bitsquatted_domains(
   
   for etld_plus1 in etld_plus1s:
     base_domain, etld = extract_domain(etld_plus1)
-    typo_domains, _ = _gen_bitsquatted_domains(base_domain, max_levenshtein, layouts[characters_to_use], include_www_missing_dot,
-                                     duplicates_only, logging)
-    
+    typo_domains, _ = _gen_bitsquatted_domains(base_domain, max_bit_flips, logging)
     #Add Suffix
     generated_domains.extend([td + etld for td in typo_domains.keys()])
-    if out_mapping_file is not None:
-      #row: 'Original Domain', 'Typo Domain', 'Lev Distance'
-      new_rows = [[etld_plus1, td + etld, typo_domains[td]] for td in typo_domains.keys()]
-      mapping_rows.extend(new_rows)
+    #row: 'Original Domain', 'Typo Domain', 'bit Distance'
+    new_rows = [[etld_plus1, td + etld, typo_domains[td]] for td in typo_domains.keys()]
+    mapping_rows.extend(new_rows)
   print("Domains Generated:{}".format(len(generated_domains)))
 
   if out_domain_file is not None:
@@ -134,8 +128,7 @@ def generate_bitsquatted_domains(
   return mapping_df
 
 if __name__ == "__main__":
-  #INPUT_DOMAIN_FILE = "data/tranco_09SEP-08OCT2023.csv"
-  #OUT_TYPO_DOMAIN_FILE = 'test.txt' #'data/test_tranco_top1k_lev2_typo_domains.txt' #"data/top1k_typo_domains.txt"
-  #OUT_TYPO_MAPPING_FILE = 'test_mappings.pkl' #'data/test_tranco_top1k_lev2_typo_mappings.pkl'
-  #generate_bitsquatted_domains(INPUT_DOMAIN_FILE, OUT_TYPO_DOMAIN_FILE, OUT_TYPO_MAPPING_FILE, max_levenshtein = 2, num_top_domains=1, logging = True)
-  print(generate_bitsquatting_keys_rfc1034())
+  INPUT_DOMAIN_FILE = "data/tranco_11FEB24-11MAR24.csv"
+  OUT_TYPO_DOMAIN_FILE = 'test.txt' #'data/test_tranco_top1k_lev2_typo_domains.txt' #"data/top1k_typo_domains.txt"
+  OUT_TYPO_MAPPING_FILE = 'test_mappings.pkl' #'data/test_tranco_top1k_lev2_typo_mappings.pkl'
+  generate_bitsquatted_domains(INPUT_DOMAIN_FILE, OUT_TYPO_DOMAIN_FILE, OUT_TYPO_MAPPING_FILE, max_bit_flips = 1, num_top_domains=1, logging = True)
