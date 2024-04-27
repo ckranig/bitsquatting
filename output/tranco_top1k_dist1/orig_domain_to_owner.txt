@@ -1,0 +1,757 @@
+google.com|GOOGLE, US
+facebook.com|FACEBOOK, US
+apple.com|APPLE-ENGINEERING, US
+googleapis.com|GOOGLE, US
+microsoft.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+live.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+amazonaws.com|AMAZON-02, US
+cloudflare.com|CLOUDFLARENET, US
+gstatic.com|GOOGLE, US
+instagram.com|FACEBOOK, US
+office.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+linkedin.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+twitter.com|TWITTER, US
+fbcdn.net|FACEBOOK, US
+youtube.com|GOOGLE, US
+azure.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+amazon.com|AMAZON-02, US
+doubleclick.net|GOOGLE, US
+googletagmanager.com|GOOGLE, US
+tiktokcdn.com|
+akamai.net|
+microsoftonline.com|
+akadns.net|
+icloud.com|APPLE-ENGINEERING, US
+googleusercontent.com|GOOGLE, US
+fastly.net|FASTLY, US
+digicert.com|INCAPSULA, US
+bing.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+zoom.us|CLOUDFLARESPECTRUM Cloudflare, Inc., US
+wikipedia.org|WIKIMEDIA, US
+domaincontrol.com|NA
+ui.com|AMAZON-02, US
+netflix.com|AMAZON-AES, US
+wordpress.org|SINGLEHOP-LLC, US
+gtld-servers.net|
+cloudfront.net|
+windows.net|MICROSOFT-CORP-MSN-AS-BLOCK, US
+google-analytics.com|GOOGLE, US
+goo.gl|GOOGLE, US
+adobe.com|AKAMAI-ASN1, NL
+youtu.be|GOOGLE, US
+yahoo.com|YAHOO-BF1, US|YAHOO-NE1, US|YAHOO-GQ1, US
+spotify.com|GOOGLE, US
+vimeo.com|CLOUDFLARENET, US
+sharepoint.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+googlesyndication.com|GOOGLE, US
+wordpress.com|AUTOMATTIC, US
+gvt2.com|
+gandi.net|GANDI-AS Domain name registrar - www.gandi.net, FR
+msn.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+whatsapp.net|FACEBOOK, US
+office365.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+skype.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+bit.ly|GOOGLE-CLOUD-PLATFORM, US
+whatsapp.com|FACEBOOK, US
+intuit.com|AKAMAI-AS, US
+cloudflare.net|CLOUDFLARENET, US
+ntp.org|SERVERCENTRAL, US|SNIC, US
+yandex.net|TELETECH, RS
+qq.com|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN|CHINANET-BACKBONE No.31,Jin-rong Street, CN|CHINATELECOM-TIANJIN Tianjij,300000, CN
+gvt1.com|
+tiktok.com|AMAZON-02, US
+opera.com|NO-OPERA, NO
+blogspot.com|GOOGLE, US
+reddit.com|FASTLY, US
+ytimg.com|
+snapchat.com|GOOGLE-CLOUD-PLATFORM, US
+outlook.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+mozilla.org|AMAZON-02, US
+europa.eu|EC-AS, LU
+googledomains.com|GOOGLE, US
+roblox.com|ROBLOX-PRODUCTION, US
+comcast.net|COMCAST-7922, US
+baidu.com|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+dropbox.com|DROPBOX, US
+macromedia.com|NA
+unity3d.com|AKAMAI-AS, US
+nih.gov|NIH-NET, US
+tumblr.com|AUTOMATTIC, US
+a2z.com|
+googleadservices.com|GOOGLE, US
+yandex.ru|TELETECH, RS
+epicgames.com|AMAZON-AES, US
+gravatar.com|AUTOMATTIC, US
+one.one|ONECOM, DK
+adnxs.com|
+cdn77.org|
+netflix.net|NA
+msedge.net|MICROSOFT-CORP-MSN-AS-BLOCK, US
+office.net|
+nic.ru|RU-CENTER, RU
+github.io|FASTLY, US
+nytimes.com|FASTLY, US
+windows.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+t.me|TELEGRAM, VG
+webex.com|13445, US
+criteo.com|FASTLY, US
+flickr.com|AMAZON-02, US
+sentry.io|GOOGLE, US
+samsung.com|SAMSUNGSDS-AS-KR SamsungSDS Inc., KR
+cdninstagram.com|
+wa.me|FACEBOOK, US
+tds.net|TDS-AS, US
+sberdevices.ru|EDGECENTERLLC, RU
+vk.com|VKONTAKTE-SPB-AS vk.com, RU
+archive.org|INTERNET-ARCHIVE, US
+zemanta.com|AKAMAI-AS, US
+ggpht.com|
+paypal.com|PAYPAL, US|FASTLY, US
+apache.org|FASTLY, US
+salesforce.com|AKAMAI-AMS, NL
+2mdn.net|
+meraki.com|AMAZON-02, US
+t.co|TWITTER, US
+cnn.com|FASTLY, US
+medium.com|CLOUDFLARENET, US
+rbxcdn.com|
+soundcloud.com|AMAZON-02, US
+casalemedia.com|CLOUDFLARENET, US
+e2ro.com|
+gmail.com|GOOGLE, US
+theguardian.com|FASTLY, US
+forbes.com|FASTLY, US
+appsflyer.com|AMAZON-AES, US
+ebay.com|AKAMAI-ASN1, NL
+w3.org|CLOUDFLARENET, US
+demdex.net|
+wsdvs.com|
+taboola.com|FASTLY, US
+adobe.io|AMAZON-AES, US
+mzstatic.com|APPLE-ENGINEERING, US
+bbc.co.uk|FASTLY, US
+example.com|EDGECAST, US
+mangosip.ru|MANGO-TELECOM-AS, RU
+cdn-apple.com|
+dnsowl.com|
+pubmatic.com|AMAZON-02, US
+slack.com|AMAZON-02, US
+att.com|AMERITECH-AS, US
+akamaihd.net|
+mcafee.com|AMAZON-02, US
+xiaomi.com|CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN|CHINA169-BJ China Unicom Beijing Province Network, CN
+bbc.com|FASTLY, US
+hp.com|HP-BCRS-ALPHARETTA-GA, US
+kaspersky.com|KL-EXT, CH
+discord.com|CLOUDFLARENET, US
+sourceforge.net|CLOUDFLARENET, US
+mit.edu|AKAMAI-AS, US
+rambler.ru|RAMBLER-TELECOM-AS, RU
+imdb.com|AMAZON-02, US
+googleblog.com|GOOGLE, US
+cisco.com|CISCOSYSTEMS, US
+roku.com|CLOUDFLARENET, US
+comcast.com|COMCAST-7922, US
+rocket-cdn.com|
+nginx.com|F5, FR
+t-mobile.com|INCAPSULA, US
+twitch.tv|FASTLY, US
+lencr.org|AMAZON-AES, US
+shifen.com|CHINA169-BJ China Unicom Beijing Province Network, CN
+miui.com|CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN
+playstation.net|
+sciencedirect.com|CLOUDFLARENET, US
+msftconnecttest.com|
+ubuntu.com|CANONICAL-AS, GB
+telefonica.de|NORIS-NETWORK IT Service Provider located in Nuernberg, Germany, DE
+wixsite.com|
+b-cdn.net|CDN77 _, GB
+userapi.com|VKONTAKTE-SPB-AS vk.com, RU
+researchgate.net|CLOUDFLARENET, US
+amazon.co.uk|AMAZON-02, US
+facebook.net|
+android.com|GOOGLE, US
+issuu.com|FASTLY, US
+ampproject.org|GOOGLE, US
+aliyuncs.com|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+ibm.com|AKAMAI-AS, US
+cedexis.net|
+hubspot.com|CLOUDFLARENET, US
+tinyurl.com|CLOUDFLARENET, US
+telecid.ru|AS-REG, RU
+openx.net|GOOGLE-CLOUD-PLATFORM, US
+wikimedia.org|WIKIMEDIA, US
+grammarly.com|AMAZON-AES, US
+atomile.com|
+nginx.org|AMAZON-02, US
+weebly.com|WEEBLY, US
+oracle.com|ORACLE-BMC-31898, US
+mozilla.com|AMAZON-02, US
+doi.org|CLOUDFLARENET, US
+washingtonpost.com|AMAZON-02, US
+wp.com|AUTOMATTIC, US
+canva.com|CLOUDFLARENET, US
+reuters.com|THOMSON-REUTERS, US
+shopify.com|CLOUDFLARENET, US
+trendmicro.com|AS2-TRENDMICRO-COM, US
+go.com|AMAZON-02, US
+dailymail.co.uk|AKAMAI-AS, US
+booking.com|AMAZON-02, US
+att.net|AMERITECH-AS, US
+avast.com|AKAMAI-AS, US
+rlcdn.com|
+3lift.com|AMAZON-02, US
+slideshare.net|FASTLY, US
+weibo.com|SINA 15F,Ideal Plaza No.58 Bei Si Huan Xi Road, CN
+opendns.com|OPENDNS, US
+dnsmadeeasy.com|AMAZON-AES, US
+force.com|AKAMAI-AMS, NL
+teamviewer.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+espn.com|AMAZON-02, US
+wiley.com|JWS-ASN-01, US
+media.net|AMAZON-AES, US
+vungle.com|CLOUDFLARESPECTRUM Cloudflare, Inc., US
+etsy.com|FASTLY, US
+google.com.br|GOOGLE, US
+samsungcloud.com|
+sharethrough.com|AMAZON-02, US
+bloomberg.com|AMAZON-02, US
+google.co.uk|GOOGLE, US
+wsj.com|AMAZON-02, US
+moatads.com|AMAZON-AES, US
+reg.ru|AS-REG, RU
+steampowered.com|AKAMAI-AS, US
+stripe.com|AMAZON-02, US
+nature.com|FASTLY, US
+wbx2.com|AMAZON-02, US
+dns.cn|CNNIC-CRITICAL-AP China Internet Network Infomation Center, CN
+drom.ru|HLL-AS, RU
+branch.io|AMAZON-02, US
+wildberries.ru|WILDBERRIES-AS, RU
+php.net|SOPRADO-ANY, DE
+eset.com|ESET-AS, SK
+msidentity.com|
+businessinsider.com|FASTLY, US
+linktr.ee|FASTLY, US
+indeed.com|CLOUDFLARENET, US
+checkpoint.com|AMAZON-02, US
+twimg.com|
+weather.com|AKAMAI-AS, US
+unsplash.com|FASTLY, US
+godaddy.com|AS-26496-GO-DADDY-COM-LLC, US
+un.org|SITA, BE
+google.de|GOOGLE, US
+criteo.net|ASN-CRITEO-EUROPE, FR
+dailymotion.com|DAILYMOTION For peering related business, please mail peering@dailymotion.com, FR
+lijit.com|AMAZON-02, US
+dotomi.com|VALUECLICK, US|CNVR-US-EAST, US
+springer.com|FASTLY, US
+ring.com|AMAZON-02, US
+sc-cdn.net|
+adriver.ru|ELTEL-AS, RU
+quora.com|AMAZON-AES, US
+dell.com|DELL-BLK, US
+azurefd.net|
+imrworldwide.com|
+nasa.gov|AMAZON-AES, US
+adform.net|ADFORM, DK
+ea.com|AKAMAI-AS, US
+cnbc.com|NBCUNI, US
+bamgrid.com|
+discord.gg|CLOUDFLARENET, US
+liadm.com|
+stackoverflow.com|CLOUDFLARENET, US
+gnu.org|FREEASINFREEDOM, US
+outbrain.com|AS-OUTBRAIN, US
+mi.com|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+eventbrite.com|AMAZON-02, US
+openai.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+cpanel.net|CPANEL-INC, US
+amazonalexa.com|
+sophos.com|AKAMAI-ASN1, NL
+tripadvisor.com|FASTLY, US
+teads.tv|AMAZON-02, US
+foxnews.com|AKAMAI-AS, US
+xcal.tv|
+globo.com|Globo Comunicacao e Participacoes SA, BR
+scdn.co|
+creativecdn.com|RTB-HOUSE-AMS, PL
+wix.com|WIX_COM, IL
+xboxlive.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+npr.org|AMAZON-02, US
+aliexpress.com|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+nease.net|NETEASE-NETWORK NetEase Building No.16 Ke Yun Road, CN
+tp-link.com|AMAZON-02, US
+sohu.com|CHINA169-BJ China Unicom Beijing Province Network, CN
+time.com|AMAZON-02, US
+elisa.fi|ELISA-AS Helsinki, Finland, FI
+forter.com|CLOUDFLARESPECTRUM Cloudflare, Inc., US
+giphy.com|FASTLY, US
+walmart.com|AKAMAI-AS, US
+pv-cdn.net|
+ozon.ru|CLOUDFLARENET, US
+usatoday.com|FASTLY, US
+1c.ru|RU1C-AS, RU
+goodreads.com|AMAZON-02, US
+taobao.com|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+netangels.ru|INTERNET-PRO-AS, RU
+telegraph.co.uk|AMAZON-02, US
+tradingview.com|AMAZON-02, US
+statista.com|AMAZON-AES, US
+blogger.com|GOOGLE, US
+avcdn.net|
+hichina.com|
+hicloud.com|
+rzone.de|
+myshopify.com|CLOUDFLARENET, US
+amazon.de|AMAZON-02, US
+alicdn.com|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN|CT-HANGZHOU-IDC No.288,Fu-chun Road, CN
+hostgator.com|CLOUDFLARENET, US
+arubanetworks.com|AMAZON-AES, US
+cdek.ru|HLL-AS, RU
+robinhood.com|AMAZON-02, US
+surveymonkey.com|AMAZON-02, US
+sc-gw.com|
+trustpilot.com|AMAZON-02, US
+pixabay.com|CLOUDFLARENET, US
+ups.com|UPS, US
+cnet.com|GOOGLE-CLOUD-PLATFORM, US
+bilibili.com|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN|HWCSNET Huawei Cloud Service data center, CN
+autodesk.com|AMAZON-AES, US
+pangle.io|
+gamepass.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+healthline.com|AMAZON-02, US
+scribd.com|FASTLY, US
+duckdns.org|AMAZON-02, US
+aol.com|AMAZON-AES, US|AMAZON-02, US
+kwai.net|CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN|CMNET-BEIJING-AP China Mobile Communicaitons Corporation, CN
+icloud-content.com|APPLE-ENGINEERING, US
+naver.com|NHN-AS-KR NAVER Cloud Corp., KR
+debian.org|FASTLY, US
+online-metrix.net|
+nvidia.com|AMAZON-AES, US
+wired.com|FASTLY, US
+inmobi.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+speedtest.net|FASTLY, US
+zendesk.com|AMAZON-AES, US
+alibaba.com|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+dzen.ru|VK-AS, RU
+ft.com|FASTLY, US
+chinamobile.com|CMNET-BEIJING-AP China Mobile Communicaitons Corporation, CN
+ted.com|AMAZON-AES, US
+bitrix24.ru|HLL-AS, RU
+mayoclinic.org|MAYO, US
+viber.com|AKAMAI-AS, US
+behance.net|FASTLY, US
+mikrotik.com|AS_MIKROTIKLS, LV
+telegram.me|TELEGRAM, VG
+verisign.com|VGRS-REGISTRY-AS, US|VERISIGN-ILG1, US
+indiatimes.com|AKAMAI-AS, US
+ok.ru|VK-AS, RU
+sentinelone.net|
+deepintent.com|CLOUDFLARESPECTRUM Cloudflare, Inc., US
+wal-mart.com|WALMART, US
+imgur.com|FASTLY, US
+newrelic.com|FASTLY, US
+mysql.com|ORACLE-BMC-31898, US
+digitalocean.com|CLOUDFLARENET, US
+worldnic.com|NETWORK-SOLUTIONS-HOSTING, US
+pandora.com|PANDORA-EQX-SJL, US
+hotjar.com|AMAZON-02, US
+deviantart.com|AMAZON-02, US
+disqus.com|FASTLY, US
+google.ca|GOOGLE, US
+webmd.com|WEBMD-IDC2-AS, US
+independent.co.uk|FASTLY, US
+buzzfeed.com|AMAZON-02, US
+entrust.net|RCC-GRANITE-1, CA
+squarespace.com|SQUARESPACE, US
+google.fr|GOOGLE, US
+line.me|LINE LINE Corporation, JP
+gosuslugi.ru|ROSTELECOM-AS, RU
+cdn20.com|
+marriott.com|AKAMAI-AS, US
+mediatek.com|HINET Data Communication Business Group, TW
+loc.gov|CLOUDFLARENET, US
+ca.gov|MICROSOFT-CORP-MSN-AS-BLOCK, US
+nypost.com|AUTOMATTIC, US
+visa.com|CLOUDFLARENET, US
+atlassian.com|AMAZON-02, US
+mailchimp.com|AKAMAI-AS, US
+cbsnews.com|FASTLY, US
+google.es|GOOGLE, US
+yelp.com|FASTLY, US
+intel.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+aboutads.info|AMAZON-02, US
+launchpad.net|CANONICAL-AS, GB
+mncdn.com|
+jquery.com|CLOUDFLARENET, US
+duckduckgo.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+huawei.com|HWCSNET Huawei Cloud Service data center, CN
+fast.com|AKAMAI-AS, US
+sapo.pt|MEO-RESIDENCIAL, PT
+163.com|NETEASE-NETWORK NetEase Building No.16 Ke Yun Road, CN
+oup.com|AMAZON-02, US
+playstation.com|AMAZON-02, US
+conviva.com|CLOUDFLARESPECTRUM Cloudflare, Inc., US
+google.it|GOOGLE, US
+shutterstock.com|AMAZON-02, US
+google.co.jp|GOOGLE, US
+sorbs.net|
+xhamster.com|CLOUDFLARENET, US
+tandfonline.com|CLOUDFLARENET, US
+braze.com|CLOUDFLARENET, US
+fb.com|FACEBOOK, US
+nest.com|GOOGLE-CLOUD-PLATFORM, US
+duolingo.com|AMAZON-AES, US
+consultant.ru|VMI-AS, RU
+myspace.com|GOOGLE-CLOUD-PLATFORM, US
+steamcommunity.com|AKAMAI-AS, US
+free.fr|PROXAD, FR
+rakuten.co.jp|RAKUTEN Rakuten Group, Inc., JP
+patreon.com|CLOUDFLARENET, US
+techcrunch.com|YAHOO-GQ1, US
+rackspace.net|RACKSPACE, US
+sina.com.cn|SINA 15F,Ideal Plaza No.58 Bei Si Huan Xi Road, CN
+uol.com.br|Universo Online S.A., BR
+calendly.com|CLOUDFLARENET, US
+hugedomains.com|CLOUDFLARENET, US
+ezvizlife.com|AMAZON-AES, US
+theverge.com|FASTLY, US
+nike.com|AMAZON-02, US
+netease.com|CT-HANGZHOU-IDC No.288,Fu-chun Road, CN
+visualstudio.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+ietf.org|CLOUDFLARENET, US
+freepik.com|GOOGLE, US
+ys7.com|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+amplitude.com|AMAZON-02, US
+ivi.ru|IVI-, RU
+herokuapp.com|AMAZON-AES, US
+licdn.com|
+ikea.com|AKAMAI-AS, US
+yandex.com|TELETECH, RS
+airbnb.com|AMAZON-AES, US
+merriam-webster.com|AMAZON-02, US
+latimes.com|AMAZON-02, US
+accuweather.com|AKAMAI-AS, US
+google.co.in|GOOGLE, US
+akam.net|
+adobe.net|ADOBE-IRELAND-AS, IE
+timeweb.ru|HLL-AS, RU
+qualtrics.com|AMAZON-AES, US
+fontawesome.com|CLOUDFLARENET, US
+pinimg.com|FASTLY, US
+wattpad.com|AMAZON-02, US
+statuspage.io|AMAZON-AES, US
+agkn.com|
+huffingtonpost.com|AMAZON-02, US
+nstld.com|
+life360.com|AMAZON-AES, US
+yieldmo.com|GOOGLE, US|GOOGLE-2, US
+mts.ru|HLL-AS, RU
+livejournal.com|RAMBLER-TELECOM-AS, RU
+qlivecdn.com|
+prnewswire.com|CLOUDFLARENET, US
+yahoo.net|AMAZON-AES, US|AMAZON-02, US
+aws.dev|
+britannica.com|AMAZON-AES, US
+rt.ru|ROSTELECOM-AS, RU
+box.com|GOOGLE-CLOUD-PLATFORM, US
+target.com|FASTLY, US
+warnerbros.com|AMAZON-02, US
+appspot.com|GOOGLE, US
+bidr.io|
+stbid.ru|RU-JSCIOT, RU
+bestbuy.com|AKAMAI-AS, US
+nbcnews.com|AMAZON-AES, US|AMAZON-02, US
+mega.co.nz|MEGA-LIMITED-AS Mega Limited, LU
+live.net|
+elpais.com|AKAMAI-ASN1, NL
+okta.com|AMAZON-AES, US
+optimizely.com|EPISERVER_AS, SE
+livechatinc.com|CLOUDFLARENET, US
+tapad.com|GOOGLE-CLOUD-PLATFORM, US
+ieee.org|IEEE, US|AMAZON-AES, US
+coinmarketcap.com|AMAZON-02, US
+google.pl|GOOGLE, US
+aliyun.com|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+grabpay.com|
+fandom.com|FASTLY, US
+w3schools.com|AMAZON-02, US
+riotgames.com|AKAMAI-AS, US
+amazon.fr|AMAZON-02, US
+investopedia.com|FASTLY, US
+mediafire.com|CLOUDFLARENET, US
+dns.ne.jp|
+mega.nz|MEGA-LIMITED-AS Mega Limited, LU
+temu.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+thesun.co.uk|AUTOMATTIC, US
+klaviyo.com|AMAZON-02, US
+addthis.com|AKAMAI-AS, US
+amazon.ca|AMAZON-02, US
+sagepub.com|NTT-LTD-2914, US
+33across.com|FASTLY, US
+dbankcloud.com|
+theatlantic.com|FASTLY, US
+beeline.ru|BEE-AS Russia, RU
+flashtalking.com|DIGITALOCEAN-ASN, US
+hulu.com|AKAMAI-ASN1, NL
+hbr.org|AMAZON-02, US
+bluekai.com|ORACLE-BMC-31898, US
+shein.com|AMAZON-02, US
+uber.com|GOOGLE-CLOUD-PLATFORM, US
+udemy.com|CLOUDFLARENET, US
+badoo.com|BADOO-U, CY
+google.com.mx|GOOGLE, US
+attn.tv|AMAZON-02, US
+pornhub.com|REFLECTED, US
+spaceweb.pro|SWEB-AS, RU
+kaspi.kz|KASPI-BANK-AS, KZ
+yimg.com|AMAZON-AES, US|AMAZON-02, US
+docker.com|CLOUDFLARESPECTRUM Cloudflare, Inc., US
+telegram.org|TELEGRAM, VG
+homedepot.com|GOOGLE-CLOUD-PLATFORM, US
+bandcamp.com|FASTLY, US
+gumgum.com|FASTLY, US
+xvideos.com|SERVERSTACK-ASN, US
+nationalgeographic.com|AMAZON-02, US
+gihc.net|INETHOSTING-AS-KR Inet Hosting, Inc., KR
+ioam.de|INFONLINE-AS, DE
+jotform.com|CLOUDFLARENET, US
+unesco.org|VERIZON-DUAL-HOMED-CUSTOMERS, NL
+cambridge.org|CLOUDFLARENET, US
+name.com|CLOUDFLARENET, US
+pccc.com|COGENT-174, US
+ecdns.net|
+xiaomi.net|CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN|CHINA169-BJ China Unicom Beijing Province Network, CN
+google.com.tr|GOOGLE, US
+ign.com|FASTLY, US
+datto.com|AKAMAI-AS, US
+mixpanel.com|GOOGLE-CLOUD-PLATFORM, US
+lenovo.com|AKAMAI-AS, US
+youku.com|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+fiverr.com|CLOUDFLARENET, US
+telekom.de|SCZN-AS, DE
+lemonde.fr|FASTLY, US
+me.com|APPLE-ENGINEERING, US
+schwab.com|CHARLES-SCHWAB, US
+dns-shop.ru|HLL-AS, RU
+zillow.com|AMAZON-02, US
+people.com|FASTLY, US
+kickstarter.com|CLOUDFLARENET, US
+rackspace.com|AMAZON-AES, US
+online.net|Online SAS, FR
+pbs.org|AMAZON-AES, US
+1rx.io|
+usps.com|USPS-001, US
+rfihub.com|
+chaturbate.com|CLOUDFLARENET, US
+swrve.com|AMAZON-02, US
+bankofamerica.com|BANKAMERICA, US
+samsungacr.com|
+bluehost.com|CLOUDFLARENET, US
+rncdn7.com|REFLECTED, US
+clever.com|AMAZON-02, US
+notion.so|CLOUDFLARENET, US
+bitdefender.com|CLOUDFLARENET, US
+a-mo.net|AMAZON-02, US
+huffpost.com|AMAZON-02, US
+cloudns.net|HETZNER-AS, DE
+x.com|TWITTER, US
+yximgs.com|CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN|CHINA169-BJ China Unicom Beijing Province Network, CN
+apigee.net|
+svc.ms|
+kargo.com|SQUARESPACE, US
+sitescout.com|CLOUDFLARESPECTRUM Cloudflare, Inc., US
+dns.com|CT-DONGGUAN-IDC CHINANET Guangdong province network, CN
+amazon.es|AMAZON-02, US
+rspamd.com|HETZNER-AS, DE
+aniview.com|AMAZON-02, US
+rbc.ru|HLL-AS, RU
+oath.cloud|
+t-online.de|AMAZON-02, US
+upwork.com|CLOUDFLARENET, US
+mgid.com|SERVERS-COM, US
+google.cn|GOOGLE, US
+hm.com|AKAMAI-AS, US
+xfinity.com|COMCAST-7922, US
+nordvpn.com|CLOUDFLARENET, US
+ebay.co.uk|AKAMAI-ASN1, NL
+dreamhost.com|AMAZON-02, US
+iso.org|SWISSCOM Swisscom Switzerland Ltd, CH
+xnxx.com|SERVERSTACK-ASN, US
+fb.me|FACEBOOK, US
+news.com.au|AKAMAI-AS, US
+ipredictive.com|
+lefigaro.fr|AKAMAI-ASN1, NL
+redhat.com|AMAZON-AES, US
+intentiq.com|UPRESS-DRB, US
+change.org|CLOUDFLARENET, US
+turn.com|
+amazon.it|AMAZON-02, US
+brave.com|AMAZON-02, US
+markmonitor.com|CLOUDFLARENET, US
+allegro.pl|QXL-NET-POLAND-AS, PL
+norton.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+fedex.com|FITC-AS, US
+spbycdn.com|
+cdnvideo.ru|CDNVIDEO-AS, RU
+onlyfans.com|AMAZON-AES, US
+miwifi.com|AMAZON-02, US
+discordapp.com|CLOUDFLARENET, US
+connatix.com|AMAZON-02, US
+adjust.com|ADJUST-, DE|ADJUST-, US|ADJUST-NL, DE
+ssl-images-amazon.com|
+disneyplus.com|AMAZON-02, US
+1drv.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+krxd.net|
+bild.de|AXEL-SPRINGER-SE, DE
+primevideo.com|AMAZON-02, US
+mwbsys.com|
+fbsbx.com|FACEBOOK, US
+amazon.in|AMAZON-02, US
+zoho.com|ZOHO-AS, US
+seznam.cz|SEZNAM-, CZ
+mozilla.net|
+myqcloud.com|NA
+shopee.com.br|SHOPEE-AS SHOPEE SINGAPORE PRIVATE LIMITED, SG
+service-now.com|SNC, US
+gitlab.com|CLOUDFLARENET, US
+ks-cdn.com|
+unpkg.com|CLOUDFLARENET, US
+erome.com|OVH, FR
+worldbank.org|AMAZON-02, US
+githubusercontent.com|
+firefox.com|AMAZON-02, US
+netgear.com|AMAZON-02, US
+atlassian.net|AMAZON-AES, US
+360safe.com|CHINANET-SH-AP China Telecom Group, CN
+ertelecom.ru|AS-SERVICEPIPE, RU
+instructure.com|FASTLY, US
+canonical.com|CANONICAL-AS, GB
+sonobi.com|GOOGLE, US
+tesla.com|AKAMAI-AS, US
+adrta.com|AMAZON-AES, US
+deloitte.com|DTTS-ASN, US
+genius.com|CLOUDFLARENET, US
+mob.com|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+vmware.com|VMW-PA-SERVER, US
+arcgis.com|AMAZON-AES, US
+economist.com|CLOUDFLARENET, US
+360.cn|CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+daum.net|KAKAO-AS-KR Kakao Corp, KR|DAUM-AS Kakao Corp, KR
+pendo.io|GOOGLE-CLOUD-PLATFORM, US
+bdydns.com|
+umich.edu|
+lowes.com|AKAMAI-AS, US
+rapid7.com|AMAZON-02, US
+repubblica.it|AMAZON-02, US
+usnews.com|AKAMAI-AS, US
+pusher.com|AMAZON-AES, US
+heylink.me|CLOUDFLARENET, US
+biblegateway.com|AMAZON-02, US
+wikihow.com|FASTLY, US
+hilton.com|HILTON-E, US
+amazon.com.br|AMAZON-02, US
+classlink.com|AMAZON-02, US
+splashtop.com|AMAZON-AES, US
+ad.gt|AMAZON-02, US
+globalsign.com|CLOUDFLARENET, US
+segment.io|AMAZON-02, US
+discogs.com|AMAZON-02, US
+springserve.com|CLOUDFLARESPECTRUM Cloudflare, Inc., US
+dnsv1.com|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN|ACE-AS-AP ACE, SG
+vivoglobal.com|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+phicdn.net|
+mgts.ru|MGTSUASIT-AS, RU
+ssacdn.com|
+mckinsey.com|MCKINSEY-GLOBAL, US
+hotmail.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+jimdo.com|FASTLY, US
+ebay.de|AKAMAI-ASN1, NL
+adroll.com|FASTLY, US
+sharethis.com|AMAZON-02, US
+synology.com|HINET Data Communication Business Group, TW
+businesswire.com|AKAMAI-AS, US
+kohls.com|AKAMAI-ASN1, NL
+plesk.com|CLOUDFLARENET, US
+onet.pl|AMAZON-02, US
+ameblo.jp|FASTLY, US
+appier.net|GOOGLE-CLOUD-PLATFORM, US
+my.com|
+ya.ru|TELETECH, RS
+typeform.com|AMAZON-02, US
+redd.it|FASTLY, US
+avito.ru|AVITO, RU
+wp.pl|WIRTUALNAPOLSKA GDANSK, Poland, PL
+innovid.com|Fujitsu Invia Finland IP-network, EU|CLOUDFLARESPECTRUM Cloudflare, Inc., US
+realtor.com|AMAZON-02, US
+akismet.com|AUTOMATTIC, US
+immunet.com|AMAZON-AES, US
+onesignal.com|CLOUDFLARENET, US
+cbc.ca|AKAMAI-AS, US
+rayjump.com|AMAZON-02, US
+quizlet.com|CLOUDFLARENET, US
+elmundo.es|GOOGLE-CLOUD-PLATFORM, US
+character.ai|CLOUDFLARENET, US
+ancestry.com|CLOUDFLARENET, US
+binance.com|AMAZON-02, US
+xerox.com|XEROX-WB, US|XEROX-WV, US
+weforum.org|AMAZON-02, US
+mediavine.com|GOOGLE, US
+utorrent.com|ASN-QUADRANET-GLOBAL, US
+ip-api.com|TUT-AS, US
+arxiv.org|FASTLY, US
+va.gov|VA-TMP-CORE, US
+asos.com|AKAMAI-ASN1, NL
+ubnt.com|AMAZON-02, US
+redditstatic.com|
+mdpi.com|CLOUDFLARENET, US
+nba.com|AMAZON-02, US
+corriere.it|RCS, IT
+costco.com|AKAMAI-AS, US
+apnews.com|CLOUDFLARENET, US
+adgrx.com|OVH, FR
+vkontakte.ru|VKONTAKTE-SPB-AS vk.com, RU
+flurry.com|AMAZON-AES, US|AMAZON-02, US
+macys.com|AKAMAI-AS, US
+plex.tv|AMAZON-02, US
+adtelligent.com|AMAZON-AES, US
+otto.de|AMAZON-02, US
+pixiv.net|IDCF IDC Frontier Inc., JP
+pexels.com|CLOUDFLARENET, US
+tokopedia.com|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+vkuser.net|VKONTAKTE-SPB-AS vk.com, RU
+agoda.com|AGODA-TH-AS-AP The Offices at Central World, 27th floor, TH
+eepurl.com|AKAMAI-AS, US
+ubi.com|AMAZON-AES, US
+flipkart.com|FKNET-IN Flipkart Internet Pvt Ltd, IN
+interia.pl|INTERIA, PL
+wshareit.com|HWCLOUDS-AS-AP HUAWEI CLOUDS, HK
+bol.com|GOOGLE-CLOUD-PLATFORM, US
+si.com|FASTLY, US
+eporner.com|LEASEWEB-NL-AMS-01 Netherlands, NL
+expedia.com|AKAMAI-AS, US
+4dex.io|
+ohthree.com|
+psychologytoday.com|AMAZON-AES, US
+skroutz.gr|SKROUTZ-, GR
+chess.com|GOOGLE-CLOUD-PLATFORM, US
+supercell.com|AMAZON-02, US
+youronlinechoices.com|MICROSOFT-CORP-MSN-AS-BLOCK, US
+redfin.com|AMAZON-02, US
+split.io|FASTLY, US
+sportskeeda.com|AMAZON-02, US
+constantcontact.com|ASN-CC, US
+creditkarma.com|AKAMAI-AS, US
+sweetxladies.com|NA
+chartbeat.com|AMAZON-02, US
+xserver.jp|XSERVER Xserver Inc., JP
+openstreetmap.org|HURRICANE, US
+root-servers.net|
+github.com|GITHUB, US
+pinterest.com|FASTLY, US
+tiktokv.com|AKAMAI-ASN1, NL
+shipt.com|FASTLY, US
+googlevideo.com|GOOGLE, US
+mail.ru|VK-AS, RU

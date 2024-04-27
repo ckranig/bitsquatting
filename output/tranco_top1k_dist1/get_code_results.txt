@@ -1,0 +1,1261 @@
+bitflip_domain: facebooi.com code:301 redirect:https://facebooi.com/ orig_domain:facebook.com
+bitflip_domain: fabebook.com code:200
+bitflip_domain: gacebook.com code:301 redirect:https://www.facebook.com/ orig_domain:facebook.com
+bitflip_domain: instegram.com code:301 redirect:https://www.instagram.com/ orig_domain:instagram.com
+bitflip_domain: fasebook.com code:301 redirect:https://www.facebook.com/ orig_domain:facebook.com
+bitflip_domain: facdbook.com code:301 redirect:https://www.facebook.com/ orig_domain:facebook.com
+bitflip_domain: amqzon.com code:301 redirect:https://www.amazon.com:443/ orig_domain:amazon.com
+bitflip_domain: microcoft.com code:200
+bitflip_domain: facebokk.com code:301 redirect:https://www.facebook.com/ orig_domain:facebook.com
+bitflip_domain: misrosoft.com code:302 redirect:http://ww25.misrosoft.com/?subid1=20240424-0819-264b-881f-f91b3742bc80 orig_domain:microsoft.com
+bitflip_domain: tvitter.com code:301 redirect:http://tuitter.com orig_domain:twitter.com
+bitflip_domain: qmazon.com code:301 redirect:https://www.amazon.com:443/ orig_domain:amazon.com
+bitflip_domain: amazkn.com code:301 redirect:https://www.amazon.com:443/ orig_domain:amazon.com
+bitflip_domain: gs4atic.com code:200
+bitflip_domain: apphe.com code:200
+bitflip_domain: amazoj.com code:301 redirect:https://www.amazon.com:443/ orig_domain:amazon.com
+bitflip_domain: amazol.com code:301 redirect:https://www.amazon.com:443/ orig_domain:amazon.com
+bitflip_domain: iostagram.com code:404
+bitflip_domain: cloudflard.com code:404
+bitflip_domain: g3tatic.com code:404
+bitflip_domain: amazmn.com code:301 redirect:https://www.amazon.com:443/ orig_domain:amazon.com
+bitflip_domain: thktokcdn.com code:404
+bitflip_domain: gongleapis.com code:404
+bitflip_domain: livd.com code:200
+bitflip_domain: azurm.com code:404
+bitflip_domain: amaznn.com code:301 redirect:https://www.amazon.com:443/ orig_domain:amazon.com
+bitflip_domain: azuru.com code:200
+bitflip_domain: gsuatic.com code:200
+bitflip_domain: aoazon.com code:301 redirect:https://www.amazon.com:443/ orig_domain:amazon.com
+bitflip_domain: foogleapis.com code:404
+bitflip_domain: amizon.com code:301 redirect:https://www.amazon.com:443/ orig_domain:amazon.com
+bitflip_domain: tuitter.com code:200
+bitflip_domain: gstatyc.com code:200
+bitflip_domain: linketin.com code:200
+bitflip_domain: tiktokcdf.com code:404
+bitflip_domain: gsvatic.com code:404
+bitflip_domain: gstauic.com code:200
+bitflip_domain: youtubu.com code:302 redirect:index.php?check_cookie=true orig_domain:youtube.com
+bitflip_domain: youtuba.com code:200
+bitflip_domain: gstatkc.com code:200
+bitflip_domain: gstadic.com code:200
+bitflip_domain: gwtatic.com code:200
+bitflip_domain: micvosoftonline.com code:200
+bitflip_domain: instaeram.com code:200
+bitflip_domain: alazon.com code:301 redirect:https://www.amazon.com:443/ orig_domain:amazon.com
+bitflip_domain: ring.com code:200
+bitflip_domain: fing.com code:301 redirect:https://www.fing.com:443/ orig_domain:bing.com
+bitflip_domain: igloud.com code:200
+bitflip_domain: zokm.us code:200
+bitflip_domain: cstatic.com code:200
+bitflip_domain: fastli.net code:200
+bitflip_domain: gstathc.com code:200
+bitflip_domain: gstapic.com code:200
+bitflip_domain: gstatmc.com code:200
+bitflip_domain: eoogleapis.com code:404
+bitflip_domain: lyve.com code:200
+bitflip_domain: gstctic.com code:200
+bitflip_domain: bifg.com code:200
+bitflip_domain: bilg.com code:200
+bitflip_domain: gspatic.com code:200
+bitflip_domain: gstatia.com code:200
+bitflip_domain: eicrosoftonline.com code:307
+bitflip_domain: ua.com code:301 redirect:https://www.underarmour.com/ orig_domain:ui.com
+bitflip_domain: microsoftonlinu.com code:307
+bitflip_domain: zooe.us code:307
+bitflip_domain: nevflix.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: gstatib.com code:200
+bitflip_domain: ngtflix.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: netfhix.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: netflih.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: rpotify.com code:200
+bitflip_domain: neuflix.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: netfnix.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: gstavic.com code:200
+bitflip_domain: spopify.com code:200
+bitflip_domain: oetflix.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: iicrosoftonline.com code:307
+bitflip_domain: wikipedya.org code:200
+bitflip_domain: gstitic.com code:200
+bitflip_domain: netfli8.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: sharepoknt.com code:200
+bitflip_domain: gsta4ic.com code:200
+bitflip_domain: vkmeo.com code:302 redirect:https://aeriumai.com orig_domain:vimeo.com
+bitflip_domain: gandy.net code:301 redirect:https://www.gandy.net/ orig_domain:gandi.net
+bitflip_domain: netflhx.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: natflix.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: cpotify.com code:302 redirect:http://ww1.cpotify.com/?terms=Unlimited%20Music%20Streaming,Social%20Media%20Listening%20System,Membership%20and%20Billing%20Management%20Software orig_domain:spotify.com
+bitflip_domain: vioeo.com code:302 redirect:index.php?check_cookie=true orig_domain:vimeo.com
+bitflip_domain: mrn.com code:301 redirect:https://www.mrn.com/ orig_domain:msn.com
+bitflip_domain: officd365.com code:302 redirect:http://ww1.officd365.com orig_domain:office365.com
+bitflip_domain: qpotify.com code:200
+bitflip_domain: livg.com code:200
+bitflip_domain: wordprers.com code:200
+bitflip_domain: gstatig.com code:200
+bitflip_domain: netflmx.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: office364.com code:200
+bitflip_domain: intuht.com code:200
+bitflip_domain: whetsapp.com code:200
+bitflip_domain: netfdix.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: netfliy.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: inpuit.com code:403
+bitflip_domain: invuit.com code:200
+bitflip_domain: inttit.com code:200
+bitflip_domain: ijtuit.com code:200
+bitflip_domain: vordpress.com code:307
+bitflip_domain: intui4.com code:200
+bitflip_domain: nmtflix.com code:301 redirect:https://www.netflix.com/ orig_domain:netflix.com
+bitflip_domain: ltp.org code:200
+bitflip_domain: int5it.com code:200
+bitflip_domain: 1q.com code:301 redirect:https://site.1q.com/ orig_domain:qq.com
+bitflip_domain: thktok.com code:404
+bitflip_domain: tikvok.com code:301 redirect:https://www.tiktok.com/?utm_source=tt_17 orig_domain:tiktok.com
+bitflip_domain: npp.org code:200
+bitflip_domain: opara.com code:200
+bitflip_domain: kpera.com code:302 redirect:https://github.com/josewilsoncc orig_domain:opera.com
+bitflip_domain: reedit.com code:410
+bitflip_domain: qs.com code:301 redirect:https://www.qs.com/ orig_domain:qq.com
+bitflip_domain: q1.com code:301 redirect:https://www.q1.com/ orig_domain:qq.com
+bitflip_domain: fvt1.com code:301 redirect:http://www.geocities.com/robinramlakan orig_domain:gvt1.com
+bitflip_domain: blogstot.com code:200
+bitflip_domain: roblkx.com code:302 redirect:http://ww1.roblkx.com/?backfill=0&term=Make+Money+Online+for+Robux&term=Paid+Surveys+for+Robux&term=Game+Cracks+and+Security+Testing+Tools orig_domain:roblox.com
+bitflip_domain: y4img.com code:404
+bitflip_domain: oudlook.com code:200
+bitflip_domain: outlooj.com code:302 redirect:http://ww25.outlooj.com/?subid1=20240424-0825-16b2-87fb-6d84db7b0a70 orig_domain:outlook.com
+bitflip_domain: oqera.com code:200
+bitflip_domain: sq.com code:301 redirect:https://www.singaporeair.com/ orig_domain:qq.com
+bitflip_domain: ckmcast.net code:200
+bitflip_domain: comcest.net code:200
+bitflip_domain: robloz.com code:200
+bitflip_domain: sfapchat.com code:200
+bitflip_domain: snatchat.com code:200
+bitflip_domain: roclox.com code:200
+bitflip_domain: biidu.com code:200
+bitflip_domain: droqbox.com code:200
+bitflip_domain: baifu.com code:301 redirect:https://www.youhuima.com/ref/27 orig_domain:baidu.com
+bitflip_domain: baadu.com code:200
+bitflip_domain: fropbox.com code:302 redirect:http://ww1.fropbox.com orig_domain:dropbox.com
+bitflip_domain: qa.com code:301 redirect:https://www.qa.com/ orig_domain:qq.com
+bitflip_domain: tumclr.com code:200
+bitflip_domain: instagpam.com code:200
+bitflip_domain: yandez.ru code:301 redirect:https://aviasales.tp.st/KyyYDx0h orig_domain:yandex.ru
+bitflip_domain: yaneex.ru code:301 redirect:http://rasfokus.ru orig_domain:yandex.ru
+bitflip_domain: yandax.ru code:301 redirect:https://aviasales.tp.st/KyyYDx0h orig_domain:yandex.ru
+bitflip_domain: a3z.com code:200
+bitflip_domain: epycgames.com code:200
+bitflip_domain: gpicgames.com code:200
+bitflip_domain: e0icgames.com code:302 redirect:https://choto.xyz/vx/63e22e581277b orig_domain:epicgames.com
+bitflip_domain: magromedia.com code:301 redirect:http://www.magromedia.com/ orig_domain:macromedia.com
+bitflip_domain: dpicgames.com code:302 redirect:https://choto.xyz/vx/63e22e57ee44a orig_domain:epicgames.com
+bitflip_domain: epicgamds.com code:200
+bitflip_domain: bakdu.com code:301 redirect:http://dingcan.com.cn orig_domain:baidu.com
+bitflip_domain: mffice.net code:400
+bitflip_domain: epkcgames.com code:302 redirect:https://choto.xyz/vx/63e22e59b93b7 orig_domain:epicgames.com
+bitflip_domain: yandep.ru code:200
+bitflip_domain: yandey.ru code:301 redirect:http://rasfokus.ru orig_domain:yandex.ru
+bitflip_domain: orera.com code:200
+bitflip_domain: gythub.io code:302 redirect:http://www.gythub.io/ orig_domain:github.io
+bitflip_domain: withub.io code:302 redirect:http://www.withub.io/ orig_domain:github.io
+bitflip_domain: ooe.one code:200
+bitflip_domain: webep.com code:200
+bitflip_domain: cfninstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdjinstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: yandgx.ru code:200
+bitflip_domain: cdninstagrem.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: bdninstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdnhnstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdninstawram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: scmsung.com code:200
+bitflip_domain: cdninstagvam.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: sdninstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: samsune.com code:200
+bitflip_domain: cdnknstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdnifstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdninstagbam.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdniostagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdninstacram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdninstagpam.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdninstagral.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdninstag2am.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: critek.com code:200
+bitflip_domain: samcung.com code:200
+bitflip_domain: cdfinstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdninstqgram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdninstagrai.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdninstagrae.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdnin3tagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdnynstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: gebex.com code:200
+bitflip_domain: clninstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: yanddx.ru code:301 redirect:http://rasfokus.ru orig_domain:yandex.ru
+bitflip_domain: salsung.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MjE1MTc4fDEyMnwxfDcxNjEyfDE3MTM5MTEzNDR8MXwxfDQzNw== orig_domain:samsung.com
+bitflip_domain: cdninsuagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: adninstagram.com code:301 redirect:https://help.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdnmnstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: ctninstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: flickp.com code:200
+bitflip_domain: cdninqtagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdlinstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: gdninstagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: qandex.ru code:200
+bitflip_domain: cdninstagzam.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdninstagrao.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: cdninspagram.com code:301 redirect:https://www.instagram.com/ orig_domain:cdninstagram.com
+bitflip_domain: samseng.com code:200
+bitflip_domain: arcjive.org code:200
+bitflip_domain: pa9pal.com code:200
+bitflip_domain: baide.com code:403
+bitflip_domain: ipache.org code:404
+bitflip_domain: apakhe.org code:404
+bitflip_domain: apaghe.org code:404
+bitflip_domain: paypah.com code:403
+bitflip_domain: paytal.com code:302 redirect:http://ww1.paytal.com/?terms=Tax%20Document%20Generation%20Software,Online%20Payment%20Processing%20For%20Individuals,Online%20Payment%20Processing%20For%20Business,Settle%20State%20Tax%20Debt,Business%20Online%20Registration%20Platform,Help%20Desk%20Ticket%20System orig_domain:paypal.com
+bitflip_domain: yaodex.ru code:200
+bitflip_domain: paxpal.com code:200
+bitflip_domain: pay0al.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MjI3MzM4fDEyMnwxfDcxNjEyfDE3MTM5MTEzOTN8MXwxfDgwMw== orig_domain:paypal.com
+bitflip_domain: vc.com code:302 redirect:https://venture.com/domains/vc.com orig_domain:vk.com
+bitflip_domain: zamanta.com code:200
+bitflip_domain: paypil.com code:200
+bitflip_domain: meraci.com code:403
+bitflip_domain: yande8.ru code:200
+bitflip_domain: salesgorce.com code:200
+bitflip_domain: salerforce.com code:403
+bitflip_domain: meeium.com code:302 redirect:https://flkdnfkkkk.com/link?z=6773964&var={SOURCE_ID}&ymid={CLICK_ID} orig_domain:medium.com
+bitflip_domain: ralesforce.com code:307
+bitflip_domain: soundclowd.com code:302 redirect:http://ww25.soundclowd.com/?subid1=20240424-0830-119e-8d27-8793e20bdfa8 orig_domain:soundcloud.com
+bitflip_domain: salesfosce.com code:307
+bitflip_domain: a2ro.com code:403
+bitflip_domain: salesforbe.com code:307
+bitflip_domain: gmaim.com code:200
+bitflip_domain: erro.com code:200
+bitflip_domain: gmaal.com code:200
+bitflip_domain: u3.org code:200
+bitflip_domain: forres.com code:403
+bitflip_domain: yafdex.ru code:200
+bitflip_domain: gorbes.com code:403
+bitflip_domain: eba9.com code:302 redirect:http://www.eba9.com/ orig_domain:ebay.com
+bitflip_domain: yanlex.ru code:200
+bitflip_domain: vorbes.com code:403
+bitflip_domain: w7.org code:200
+bitflip_domain: ozstatic.com code:200
+bitflip_domain: 9andex.ru code:200
+bitflip_domain: yandmx.ru code:200
+bitflip_domain: bbs.co.uk code:200
+bitflip_domain: exemple.com code:302 redirect:http://ww16.exemple.com/?sub1=20240424-0830-36fb-a6f2-64367a2c7f7b orig_domain:example.com
+bitflip_domain: atv.com code:301 redirect:https://www.atv.com orig_domain:att.com
+bitflip_domain: cbc.co.uk code:200
+bitflip_domain: mgafee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mgafee.com orig_domain:mcafee.com
+bitflip_domain: cdn-apqle.com code:307
+bitflip_domain: cdo-apple.com code:307
+bitflip_domain: msafee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=msafee.com orig_domain:mcafee.com
+bitflip_domain: mcqfee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcqfee.com orig_domain:mcafee.com
+bitflip_domain: mcefee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcefee.com orig_domain:mcafee.com
+bitflip_domain: bbb.com code:301 redirect:https://bbb.com:443/ orig_domain:bbc.com
+bitflip_domain: mcanee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcanee.com orig_domain:mcafee.com
+bitflip_domain: cdn-aqple.com code:307
+bitflip_domain: mcafae.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcafae.com orig_domain:mcafee.com
+bitflip_domain: mcafeg.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcafeg.com orig_domain:mcafee.com
+bitflip_domain: ocafee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=ocafee.com orig_domain:mcafee.com
+bitflip_domain: mcafea.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcafea.com orig_domain:mcafee.com
+bitflip_domain: mcafde.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcafde.com orig_domain:mcafee.com
+bitflip_domain: mcadee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcadee.com orig_domain:mcafee.com
+bitflip_domain: mcafed.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcafed.com orig_domain:mcafee.com
+bitflip_domain: mcafem.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcafem.com orig_domain:mcafee.com
+bitflip_domain: lcafee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=lcafee.com orig_domain:mcafee.com
+bitflip_domain: mcavee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcavee.com orig_domain:mcafee.com
+bitflip_domain: forbus.com code:302 redirect:https://www.lifealert.com/ orig_domain:forbes.com
+bitflip_domain: ecafee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=ecafee.com orig_domain:mcafee.com
+bitflip_domain: taboole.com code:200
+bitflip_domain: rbc.co.uk code:200
+bitflip_domain: maafee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=maafee.com orig_domain:mcafee.com
+bitflip_domain: bdn-apple.com code:307
+bitflip_domain: cen-apple.com code:307
+bitflip_domain: icafee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=icafee.com orig_domain:mcafee.com
+bitflip_domain: h0.com code:200
+bitflip_domain: mcafme.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcafme.com orig_domain:mcafee.com
+bitflip_domain: disgord.com code:200
+bitflip_domain: courceforge.net code:200
+bitflip_domain: cdn-appme.com code:307
+bitflip_domain: disbord.com code:200
+bitflip_domain: iidb.com code:200
+bitflip_domain: diskord.com code:200
+bitflip_domain: wstvs.com code:403
+bitflip_domain: mbafee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mbafee.com orig_domain:mcafee.com
+bitflip_domain: sisco.com code:301 redirect:https://www.sisco.com/ orig_domain:cisco.com
+bitflip_domain: imfb.com code:200
+bitflip_domain: imeb.com code:200
+bitflip_domain: diwcord.com code:200
+bitflip_domain: roke.com code:302 redirect:http://www.roke.co.uk orig_domain:roku.com
+bitflip_domain: boku.com code:301 redirect:https://www.boku.com/ orig_domain:roku.com
+bitflip_domain: mcagee.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15084646&afsrc=1?sid=mcagee.com orig_domain:mcafee.com
+bitflip_domain: ciqco.com code:302 redirect:http://www.ciqco.com/?from=@ orig_domain:cisco.com
+bitflip_domain: casco.com code:200
+bitflip_domain: twitcj.tv code:301 redirect:http://bit.ly/twitch-TV orig_domain:twitch.tv
+bitflip_domain: tsitch.tv code:301 redirect:http://bit.ly/twitch-TV orig_domain:twitch.tv
+bitflip_domain: rkku.com code:200
+bitflip_domain: twitsh.tv code:200
+bitflip_domain: plqystation.net code:200
+bitflip_domain: kmdb.com code:200
+bitflip_domain: mmui.com code:200
+bitflip_domain: demdep.net code:302 redirect:https://demdep.net/ orig_domain:demdex.net
+bitflip_domain: d-mobile.com code:301 redirect:https://www.t-mobile.com orig_domain:t-mobile.com
+bitflip_domain: msgtconnecttest.com code:200
+bitflip_domain: sourseforge.net code:302 redirect:http://ww1.sourseforge.net/?terms=Social%20Media%20Automation%20Marketing%20Software,Make%20Money%20From%20Home,Lowest%20Car%20Insurance%20Rates,B2B%20Travel%20Booking%20System,Free%20Credit%20Card%20Apply orig_domain:sourceforge.net
+bitflip_domain: rambles.ru code:200
+bitflip_domain: telefonice.de code:200
+bitflip_domain: wiysite.com code:200
+bitflip_domain: ramblmr.ru code:200
+bitflip_domain: wyxsite.com code:200
+bitflip_domain: bbs.com code:302 redirect:https://www.bbs.com/de/ orig_domain:bbc.com
+bitflip_domain: wixside.com code:200
+bitflip_domain: lp.com code:200
+bitflip_domain: sambler.ru code:200
+bitflip_domain: vambler.ru code:200
+bitflip_domain: ralbler.ru code:200
+bitflip_domain: wizsite.com code:200
+bitflip_domain: raebler.ru code:200
+bitflip_domain: cysco.com code:200
+bitflip_domain: amazoj.co.uk code:301 redirect:https://www.amazon.co.uk:443/ orig_domain:amazon.co.uk
+bitflip_domain: hmdb.com code:200
+bitflip_domain: fecebook.net code:301 redirect:https://fecebook.net/ orig_domain:facebook.net
+bitflip_domain: wixcite.com code:200
+bitflip_domain: amaxon.co.uk code:301 redirect:https://www.amazon.co.uk:443/ orig_domain:amazon.co.uk
+bitflip_domain: alazon.co.uk code:302 redirect:https://www.secondhandwashingmachine.co.uk/amazonlink.html orig_domain:amazon.co.uk
+bitflip_domain: ramcler.ru code:200
+bitflip_domain: amqzon.co.uk code:301 redirect:https://www.amazon.co.uk:443/ orig_domain:amazon.co.uk
+bitflip_domain: qmazon.co.uk code:301 redirect:https://www.amazon.co.uk:443/ orig_domain:amazon.co.uk
+bitflip_domain: issue.com code:301 redirect:https://issuu.com/ orig_domain:issuu.com
+bitflip_domain: rambher.ru code:200
+bitflip_domain: raobler.ru code:200
+bitflip_domain: rcmbler.ru code:200
+bitflip_domain: ramrler.ru code:200
+bitflip_domain: amizon.co.uk code:301 redirect:https://www.amazon.co.uk:443/ orig_domain:amazon.co.uk
+bitflip_domain: amazkn.co.uk code:301 redirect:https://www.amazon.co.uk:443/ orig_domain:amazon.co.uk
+bitflip_domain: hubspod.com code:302 redirect:http://imx.hozzd.com/click.php?c=324&key=6u426m6liyk85v87goepaitd orig_domain:hubspot.com
+bitflip_domain: ifm.com code:301 redirect:https://www.ifm.com/ orig_domain:ibm.com
+bitflip_domain: ibe.com code:200
+bitflip_domain: jubspot.com code:200
+bitflip_domain: ramblar.ru code:301 redirect:https://aviasales.tp.st/KyyYDx0h orig_domain:rambler.ru
+bitflip_domain: irm.com code:403
+bitflip_domain: tinywrl.com code:200
+bitflip_domain: alpproject.org code:200
+bitflip_domain: oricle.com code:200
+bitflip_domain: ramble2.ru code:200
+bitflip_domain: rambmer.ru code:200
+bitflip_domain: rambleb.ru code:200
+bitflip_domain: wembly.com code:302 redirect:https://venture.com/domains/wembly.com orig_domain:weebly.com
+bitflip_domain: ijm.com code:200
+bitflip_domain: oracla.com code:200
+bitflip_domain: rambner.ru code:200
+bitflip_domain: gashingtonpost.com code:404
+bitflip_domain: orable.com code:200
+bitflip_domain: reupers.com code:200
+bitflip_domain: mozilli.com code:200
+bitflip_domain: cqnva.com code:200
+bitflip_domain: morilla.com code:200
+bitflip_domain: siopify.com code:200
+bitflip_domain: shoxify.com code:200
+bitflip_domain: bookinf.com code:301 redirect:https://www.booking.com:443/?original_host=bookinf.com& orig_domain:booking.com
+bitflip_domain: bookkng.com code:301 redirect:https://www.booking.com:443/?original_host=bookkng.com& orig_domain:booking.com
+bitflip_domain: bkoking.com code:301 redirect:https://www.booking.com:443/?original_host=bkoking.com& orig_domain:booking.com
+bitflip_domain: bokking.com code:301 redirect:https://www.booking.com:443/?original_host=bokking.com& orig_domain:booking.com
+bitflip_domain: whopify.com code:200
+bitflip_domain: boojing.com code:301 redirect:https://www.booking.com:443/?original_host=boojing.com& orig_domain:booking.com
+bitflip_domain: bnoking.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=OTc4NjB8MTIxfDF8NDMzNjR8MTcxMzkxMTc2NnwxfDF8MzQz orig_domain:booking.com
+bitflip_domain: booiing.com code:301 redirect:https://www.booking.com:443/?original_host=booiing.com& orig_domain:booking.com
+bitflip_domain: dailymaim.co.uk code:301 redirect:https://www.choto.xyz/vx/9TCv2 orig_domain:dailymail.co.uk
+bitflip_domain: bookmng.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=OTkwMzh8MTIyfDF8NDMzNjR8MTcxMzkxMTc3MXwxfDF8MzQz orig_domain:booking.com
+bitflip_domain: bookhng.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=OTkyMzJ8MTIxfDF8NDMzNjR8MTcxMzkxMTc3MnwxfDF8MzQz orig_domain:booking.com
+bitflip_domain: daimymail.co.uk code:301 redirect:https://www.choto.xyz/vx/OXoTd orig_domain:dailymail.co.uk
+bitflip_domain: daklymail.co.uk code:301 redirect:https://www.choto.xyz/vx/TiTMp orig_domain:dailymail.co.uk
+bitflip_domain: ramblez.ru code:200
+bitflip_domain: ramblgr.ru code:200
+bitflip_domain: rdcdn.com code:404
+bitflip_domain: ramblur.ru code:200
+bitflip_domain: ramjler.ru code:200
+bitflip_domain: bomking.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MTAzMjQwfDEyMnwxfDQzMzY0fDE3MTM5MTE3ODZ8MXwxfDM0Mw== orig_domain:booking.com
+bitflip_domain: weiro.com code:200
+bitflip_domain: wembo.com code:301 redirect:https://wembo.com/wembo/ orig_domain:weibo.com
+bitflip_domain: raibler.ru code:200
+bitflip_domain: 2ambler.ru code:200
+bitflip_domain: ramfler.ru code:200
+bitflip_domain: weabo.com code:200
+bitflip_domain: dom.org code:302 redirect:http://thezone.club orig_domain:doi.org
+bitflip_domain: teamviewdr.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MTA1NTU4fDEyM3wxfDk3OTM5N3wxNzEzOTExNzk1fDF8MXw0MzQ2 orig_domain:teamviewer.com
+bitflip_domain: shkpify.com code:302 redirect:http://shkpify.com/?h=e68c45e240b47d6b603 orig_domain:shopify.com
+bitflip_domain: sladeshare.net code:200
+bitflip_domain: fosce.com code:301 redirect:https://www.fosce.com orig_domain:force.com
+bitflip_domain: ra-bler.ru code:200
+bitflip_domain: teemviewer.com code:200
+bitflip_domain: teamviewar.com code:200
+bitflip_domain: zambler.ru code:200
+bitflip_domain: teamvieser.com code:302 redirect:http://ww1.teamvieser.com orig_domain:teamviewer.com
+bitflip_domain: openlns.com code:200
+bitflip_domain: uspn.com code:200
+bitflip_domain: widey.com code:302 redirect:http://www.schule-widey.de orig_domain:wiley.com
+bitflip_domain: shopyfy.com code:302 redirect:http://136.243.255.89/?h=81c2c84cdac5d13f1e0472fb&l=shopify.com&bri=ab-ab8&i7=ab898-AB89893869&i3=93869-938695CD96&J=0&j=672&ro=102&v=18298&ju=67140-0-70523937-0-1-10-938695CD96 orig_domain:shopify.com
+bitflip_domain: ramblev.ru code:200
+bitflip_domain: rambder.ru code:200
+bitflip_domain: teamvyewer.com code:200
+bitflip_domain: cenva.com code:200
+bitflip_domain: sho0ify.com code:302 redirect:http://136.243.255.89/?h=d9a7fc44bbbe89fcfc17da0a&l=shopify.com&bri=e2-e24&i7=e247e-E247E02E49&i3=02e49-02E4934AC7&J=0&j=572&ro=100&v=18253&ju=67886054-0-34204047-0-1-10-2ADA7445B9 orig_domain:shopify.com
+bitflip_domain: goofle.com.br code:404
+bitflip_domain: et3y.com code:302 redirect:https://www.etsy.com/ orig_domain:etsy.com
+bitflip_domain: dorce.com code:301 redirect:https://www.dorce.com/ orig_domain:force.com
+bitflip_domain: foogle.com.br code:404
+bitflip_domain: ets9.com code:302 redirect:https://www.etsy.com/ orig_domain:etsy.com
+bitflip_domain: forcm.com code:403
+bitflip_domain: tealviewer.com code:307
+bitflip_domain: wwj.com code:301 redirect:https://www.cbsnews.com/detroit/ orig_domain:wsj.com
+bitflip_domain: wqj.com code:301 redirect:http://MillionaireMatch.tech orig_domain:wsj.com
+bitflip_domain: ggogle.co.uk code:200
+bitflip_domain: gorce.com code:403
+bitflip_domain: natura.com code:302 redirect:https://www.natura.com orig_domain:nature.com
+bitflip_domain: dnr.cn code:302 redirect:https://43b2f45fafc4f863a097ed8f413b6d1c.zunjishoufa.quanfeng.net/?site=ZG5yLmNu&acct=728 orig_domain:dns.cn
+bitflip_domain: ggogle.com.br code:404
+bitflip_domain: vsj.com code:301 redirect:https://www.vsj.com orig_domain:wsj.com
+bitflip_domain: spripe.com code:200
+bitflip_domain: shopif9.com code:302 redirect:http://136.243.255.89/?h=245b8e5e4b8ee97f60a48235&l=shopify.com&bri=67-670&i7=6702a-6702A08F81&i3=08f81-08F81946CA&J=0&j=19408&ro=100&v=26726&ju=82180251-0-28484596-0-1-10-08F81946CA orig_domain:shopify.com
+bitflip_domain: pxp.net code:200
+bitflip_domain: shopkfy.com code:302 redirect:http://136.243.255.89/?h=8fdaba494e025a301f41d9ff&l=shopify.com&bri=62-625&i7=62504-62504D3365&i3=d3365-D33652E1DD&J=0&j=578&ro=102&v=18256&ju=87893816-0-48800216-0-1-10-D33652E1DD orig_domain:shopify.com
+bitflip_domain: strite.com code:200
+bitflip_domain: businessinsifer.com code:302 redirect:http://www.businessinsider.com/ orig_domain:businessinsider.com
+bitflip_domain: wilfberries.ru code:301 redirect:https://choto.xyz/vx/zdpp7 orig_domain:wildberries.ru
+bitflip_domain: wsz.com code:301 redirect:http://www.wrz.com orig_domain:wsj.com
+bitflip_domain: indeee.com code:200
+bitflip_domain: inteed.com code:200
+bitflip_domain: gokgle.de code:302 redirect:https://www.domainmarkt.de/gokgle.de orig_domain:google.de
+bitflip_domain: weqther.com code:200
+bitflip_domain: likit.com code:302 redirect:http://www.likit.co.uk orig_domain:lijit.com
+bitflip_domain: goeaddy.com code:200
+bitflip_domain: googhe.de code:200
+bitflip_domain: twime.com code:301 redirect:https://www.twitraining.com/ orig_domain:twimg.com
+bitflip_domain: ggogle.de code:200
+bitflip_domain: spranger.com code:301 redirect:https://www.jarltech.com orig_domain:springer.com
+bitflip_domain: gkogle.de code:200
+bitflip_domain: rhng.com code:200
+bitflip_domain: foogle.de code:302 redirect:http://ww16.foogle.de/?sub1=20240424-0838-53f7-b80a-032d9f03d487 orig_domain:google.de
+bitflip_domain: rilg.com code:200
+bitflip_domain: rkng.com code:200
+bitflip_domain: rifg.com code:200
+bitflip_domain: azurebd.net code:403
+bitflip_domain: dedl.com code:200
+bitflip_domain: ddll.com code:200
+bitflip_domain: lell.com code:200
+bitflip_domain: googla.de code:302 redirect:http://www.travel-x.de/ orig_domain:google.de
+bitflip_domain: googme.de code:200
+bitflip_domain: auora.com code:200
+bitflip_domain: fns.cn code:200
+bitflip_domain: quoba.com code:200
+bitflip_domain: deln.com code:200
+bitflip_domain: woogle.de code:301 redirect:http://www.wishpond.de orig_domain:google.de
+bitflip_domain: dehl.com code:200
+bitflip_domain: goofle.de code:200
+bitflip_domain: camgrid.com code:200
+bitflip_domain: cfbc.com code:200
+bitflip_domain: ma.com code:200
+bitflip_domain: cnbb.com code:200
+bitflip_domain: liatm.com code:302 redirect:http://www.liatm.com/ orig_domain:liadm.com
+bitflip_domain: staccoverflow.com code:200
+bitflip_domain: cnjc.com code:302 redirect:https://venture.com/domains/cnjc.com orig_domain:cnbc.com
+bitflip_domain: deld.com code:301 redirect:http://www.shoprank.com orig_domain:dell.com
+bitflip_domain: tns.cn code:200
+bitflip_domain: eventbride.com code:200
+bitflip_domain: aventbrite.com code:200
+bitflip_domain: evantbrite.com code:200
+bitflip_domain: sophor.com code:200
+bitflip_domain: niadm.com code:403
+bitflip_domain: tripidvisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripidvisor.com orig_domain:tripadvisor.com
+bitflip_domain: trkpadvisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=trkpadvisor.com orig_domain:tripadvisor.com
+bitflip_domain: tripaevisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripaevisor.com orig_domain:tripadvisor.com
+bitflip_domain: tripadfisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripadfisor.com orig_domain:tripadvisor.com
+bitflip_domain: tripatvisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripatvisor.com orig_domain:tripadvisor.com
+bitflip_domain: trixadvisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=trixadvisor.com orig_domain:tripadvisor.com
+bitflip_domain: tripadviwor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripadviwor.com orig_domain:tripadvisor.com
+bitflip_domain: foxneww.com code:200
+bitflip_domain: trapadvisor.com code:200
+bitflip_domain: tri0advisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tri0advisor.com orig_domain:tripadvisor.com
+bitflip_domain: tripadvisnr.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripadvisnr.com orig_domain:tripadvisor.com
+bitflip_domain: tripadvksor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripadvksor.com orig_domain:tripadvisor.com
+bitflip_domain: tripadvasor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripadvasor.com orig_domain:tripadvisor.com
+bitflip_domain: tripadvicor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripadvicor.com orig_domain:tripadvisor.com
+bitflip_domain: triqadvisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=triqadvisor.com orig_domain:tripadvisor.com
+bitflip_domain: tripadvisov.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripadvisov.com orig_domain:tripadvisor.com
+bitflip_domain: tripedvisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripedvisor.com orig_domain:tripadvisor.com
+bitflip_domain: tripadviror.com code:200
+bitflip_domain: 4ripadvisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=4ripadvisor.com orig_domain:tripadvisor.com
+bitflip_domain: tripadrisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripadrisor.com orig_domain:tripadvisor.com
+bitflip_domain: tripqdvisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripqdvisor.com orig_domain:tripadvisor.com
+bitflip_domain: tripadviskr.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripadviskr.com orig_domain:tripadvisor.com
+bitflip_domain: tripadvisos.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=tripadvisos.com orig_domain:tripadvisor.com
+bitflip_domain: pripadvisor.com code:301 redirect:https://www.anrdoezrs.net/click-2798135-12205838?SID=pripadvisor.com orig_domain:tripadvisor.com
+bitflip_domain: hboxlive.com code:200
+bitflip_domain: wih.com code:200
+bitflip_domain: rohu.com code:200
+bitflip_domain: aliexrress.com code:200
+bitflip_domain: tima.com code:200
+bitflip_domain: nps.org code:301 redirect:https://www.nps.org/ orig_domain:npr.org
+bitflip_domain: snhu.com code:200
+bitflip_domain: dp-link.com code:200
+bitflip_domain: timu.com code:301 redirect:https://www.timu.com/ orig_domain:time.com
+bitflip_domain: tp-linc.com code:200
+bitflip_domain: wyx.com code:200
+bitflip_domain: wahmart.com code:301 redirect:https://honusports.com/ orig_domain:walmart.com
+bitflip_domain: aliextress.com code:200
+bitflip_domain: aliexprdss.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MjEyNzkzfDEyMXwxfDk3OTM5N3wxNzEzOTEyMTY2fDF8MXw3 orig_domain:aliexpress.com
+bitflip_domain: tioe.com code:200
+bitflip_domain: forver.com code:200
+bitflip_domain: usqtoday.com code:200
+bitflip_domain: walmert.com code:200
+bitflip_domain: aliex0ress.com code:302 redirect:http://aliex0ress.com/?h=6848a053a6dd68448fd orig_domain:aliexpress.com
+bitflip_domain: xboxlife.com code:200
+bitflip_domain: tradingvies.com code:200
+bitflip_domain: paobao.com code:403
+bitflip_domain: amazoj.de code:302 redirect:http://www.amazon.de orig_domain:amazon.de
+bitflip_domain: amazkn.de code:301 redirect:http://www.amazon.de orig_domain:amazon.de
+bitflip_domain: blogeer.com code:200
+bitflip_domain: blooger.com code:200
+bitflip_domain: tratingview.com code:200
+bitflip_domain: tradingviuw.com code:200
+bitflip_domain: amajon.de code:200
+bitflip_domain: tredingview.com code:200
+bitflip_domain: amizon.de code:302 redirect:http://www.amazon.de/ orig_domain:amazon.de
+bitflip_domain: emazon.de code:302 redirect:http://www.amazon.de orig_domain:amazon.de
+bitflip_domain: qmazon.de code:302 redirect:http://www.amazon.de/ orig_domain:amazon.de
+bitflip_domain: hhchina.com code:200
+bitflip_domain: 1g.ru code:200
+bitflip_domain: ozoj.ru code:200
+bitflip_domain: robinhokd.com code:302 redirect:https://join.robinhood.com/garethu orig_domain:robinhood.com
+bitflip_domain: mysho0ify.com code:302 redirect:http://mysho0ify.com/?h=6439f7b6d8818bad097 orig_domain:myshopify.com
+bitflip_domain: eps.com code:200
+bitflip_domain: amezon.de code:200
+bitflip_domain: robknhood.com code:302 redirect:https://join.robinhood.com/garethu orig_domain:robinhood.com
+bitflip_domain: tradkngview.com code:302 redirect:http://tradkngview.com/?h=45b4d6c1ad1208c40cf orig_domain:tradingview.com
+bitflip_domain: wurveymonkey.com code:200
+bitflip_domain: cnep.com code:302 redirect:http://www.cpap.com orig_domain:cnet.com
+bitflip_domain: bnet.com code:301 redirect:https://www.cbsnews.com/moneywatch/ orig_domain:cnet.com
+bitflip_domain: myshkpify.com code:302 redirect:http://136.243.255.89/?h=65f01c44b276d4dc8a41fed6&l=myshopify.com&bri=c4-c41&i7=c4176-C41764FEEF&i3=4feef-4FEEFBE00A&J=0&j=19532&ro=101&v=26782&ju=98235846-0-37503616-0-1-10-4FEEFBE00A orig_domain:myshopify.com
+bitflip_domain: alazon.de code:200
+bitflip_domain: audodesk.com code:200
+bitflip_domain: autotesk.com code:200
+bitflip_domain: coet.com code:200
+bitflip_domain: xangle.io code:200
+bitflip_domain: upw.com code:200
+bitflip_domain: survaymonkey.com code:200
+bitflip_domain: scribt.com code:200
+bitflip_domain: amqzon.de code:302 redirect:http://www.amazon.de orig_domain:amazon.de
+bitflip_domain: bimibili.com code:302 redirect:https://newsfunslots.com/ orig_domain:bilibili.com
+bitflip_domain: bilibilk.com code:302 redirect:https://newsfunslots.com/ orig_domain:bilibili.com
+bitflip_domain: scribl.com code:200
+bitflip_domain: sohw.com code:403
+bitflip_domain: qutodesk.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MTczNjN8MTIxfDF8NDMzNjR8MTcxMzkxMjM2M3wxfDF8MTgyMQ== orig_domain:autodesk.com
+bitflip_domain: ibloud-content.com code:307
+bitflip_domain: icmoud-content.com code:307
+bitflip_domain: speeddest.net code:200
+bitflip_domain: autndesk.com code:301 redirect:https://www.autodesk.com/ orig_domain:autodesk.com
+bitflip_domain: sreedtest.net code:200
+bitflip_domain: nvifia.com code:200
+bitflip_domain: zendesi.com code:302 redirect:http://www.zendesi.com/ orig_domain:zendesk.com
+bitflip_domain: nvydia.com code:200
+bitflip_domain: iclnud-content.com code:307
+bitflip_domain: hcloud-content.com code:307
+bitflip_domain: wirad.com code:200
+bitflip_domain: alibabi.com code:200
+bitflip_domain: fp.com code:301 redirect:https://www.aviva.com/ orig_domain:ft.com
+bitflip_domain: mywhopify.com code:302 redirect:http://136.243.255.89/?h=ea6c94888a24ba5b300a7b95&l=myshopify.com&bri=93-93d&i7=93d52-93D5245837&i3=45837-458377F7E9&J=0&j=18729&ro=100&v=26421&ju=45335037-0-71184050-0-1-10-458377F7E9 orig_domain:myshopify.com
+bitflip_domain: daobao.com code:200
+bitflip_domain: ved.com code:200
+bitflip_domain: riber.com code:301 redirect:https://www.riber.com/ orig_domain:viber.com
+bitflip_domain: cpeedtest.net code:307
+bitflip_domain: tradingvkew.com code:302 redirect:http://136.243.255.89/?h=38381c303c03b37ea55415c4&l=tradingview.com&bri=64-64f&i7=27d13-27D1331A44&i3=31a44-31A4422473&J=0&j=44625&ro=100&v=38070&ju=82306989-0-13676164-0-1-10-31A4422473 orig_domain:tradingview.com
+bitflip_domain: speadtest.net code:403
+bitflip_domain: behence.net code:200
+bitflip_domain: telegrem.me code:200
+bitflip_domain: mikropik.com code:200
+bitflip_domain: fd.com code:302 redirect:http://www.fticonsulting.com/services/strategic-communications orig_domain:ft.com
+bitflip_domain: f4.com code:200
+bitflip_domain: tradijgview.com code:302 redirect:http://136.243.255.89/?h=a23973d0e5464e2233e614fd&l=tradingview.com&bri=ce-ced&i7=cedf8-CEDF85A476&i3=5a476-5A4762594F&J=0&j=44626&ro=102&v=38070&ju=3952325-0-4346889-0-1-10-5A4762594F orig_domain:tradingview.com
+bitflip_domain: tet.com code:301 redirect:http://www.teledyne.com orig_domain:ted.com
+bitflip_domain: vibev.com code:200
+bitflip_domain: verisygn.com code:301 redirect:https://verisign.com?dmn=verisygn.com orig_domain:verisign.com
+bitflip_domain: verasign.com code:301 redirect:https://verisign.com?dmn=verasign.com orig_domain:verisign.com
+bitflip_domain: verysign.com code:301 redirect:https://verisign.com?dmn=verysign.com orig_domain:verisign.com
+bitflip_domain: oi.ru code:200
+bitflip_domain: col.com code:200
+bitflip_domain: walmmart.com code:302 redirect:http://www.linkcounter.com/go.php?linkid=305001 orig_domain:wal-mart.com
+bitflip_domain: mysal.com code:403
+bitflip_domain: lotjar.com code:200
+bitflip_domain: indepeneent.co.uk code:301 redirect:https://www.choto.xyz/vx/3OtwC orig_domain:independent.co.uk
+bitflip_domain: foogle.fr code:200
+bitflip_domain: webml.com code:200
+bitflip_domain: coogle.fr code:200
+bitflip_domain: daviantart.com code:302 redirect:http://ww25.daviantart.com/?subid1=20240424-0847-2103-aace-4035a6e9f653 orig_domain:deviantart.com
+bitflip_domain: eotrust.net code:200
+bitflip_domain: webid.com code:200
+bitflip_domain: gkogle.fr code:302 redirect:https://www.choto.xyz/vx/NVrOn orig_domain:google.fr
+bitflip_domain: squarespece.com code:200
+bitflip_domain: squarespaca.com code:200
+bitflip_domain: spuarespace.com code:200
+bitflip_domain: squarespqce.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=NDQzMzN8MTIxfDF8NzE2MTJ8MTcxMzkxMjQ1NHwxfDF8NjE4MA== orig_domain:squarespace.com
+bitflip_domain: goofle.fr code:200
+bitflip_domain: buzzfeee.com code:200
+bitflip_domain: ga.gov code:301 redirect:https://georgia.gov/ orig_domain:ca.gov
+bitflip_domain: googla.fr code:200
+bitflip_domain: googld.fr code:302 redirect:https://www.choto.xyz/vx/wfFS7 orig_domain:google.fr
+bitflip_domain: gokgle.fr code:302 redirect:https://www.choto.xyz/vx/8uRQm orig_domain:google.fr
+bitflip_domain: nqpost.com code:302 redirect:http://www.narcissusquagliata.com/ orig_domain:nypost.com
+bitflip_domain: sa.gov code:301 redirect:https://www.sa.gov/ orig_domain:ca.gov
+bitflip_domain: cbsndws.com code:200
+bitflip_domain: foogle.es code:200
+bitflip_domain: goggle.es code:200
+bitflip_domain: gosuwlugi.ru code:200
+bitflip_domain: mqilchimp.com code:302 redirect:https://mailchimp.com/ orig_domain:mailchimp.com
+bitflip_domain: maalchimp.com code:302 redirect:https://mailchimp.com/ orig_domain:mailchimp.com
+bitflip_domain: bbsnews.com code:200
+bitflip_domain: maidchimp.com code:302 redirect:https://mailchimp.com/ orig_domain:mailchimp.com
+bitflip_domain: mamlchimp.com code:302 redirect:https://mailchimp.com/ orig_domain:mailchimp.com
+bitflip_domain: mailclimp.com code:302 redirect:http://imx.hozzd.com/click.php?c=342&key=wq4hou2j5gf2r9foa1uisd5e orig_domain:mailchimp.com
+bitflip_domain: maimchimp.com code:302 redirect:https://mailchimp.com/ orig_domain:mailchimp.com
+bitflip_domain: nypowt.com code:200
+bitflip_domain: gowuslugi.ru code:200
+bitflip_domain: mailchymp.com code:302 redirect:https://mailchimp.com/ orig_domain:mailchimp.com
+bitflip_domain: kntel.com code:200
+bitflip_domain: dntrust.net code:301 redirect:http://www.dntrust.com/ orig_domain:entrust.net
+bitflip_domain: eailchimp.com code:302 redirect:https://mailchimp.com/ orig_domain:mailchimp.com
+bitflip_domain: gkogle.es code:301 redirect:https://choto.xyz/vx/O3IAhkfaebI2IbQ5 orig_domain:google.es
+bitflip_domain: mailahimp.com code:302 redirect:https://mailchimp.com/ orig_domain:mailchimp.com
+bitflip_domain: ggogle.es code:200
+bitflip_domain: huewei.com code:200
+bitflip_domain: merriott.com code:200
+bitflip_domain: mailchi-p.com code:302 redirect:https://mailchimp.com/ orig_domain:mailchimp.com
+bitflip_domain: gokgle.es code:301 redirect:https://choto.xyz/vx/wz6arDmN51ErkX7b orig_domain:google.es
+bitflip_domain: ouq.com code:301 redirect:https://www.ouq.com orig_domain:oup.com
+bitflip_domain: shudterstock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shudterstock.com orig_domain:shutterstock.com                                                                                                                   in:shutterstock.com
+bitflip_domain: yalp.com code:302 redirect:https://www.yalp.com/ orig_domain:yelp.com
+bitflip_domain: oux.com code:200
+bitflip_domain: shutterstoci.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shutterstoci.com orig_domain:shutterstock.comin:shutterstock.com                                                                                                                   in:shutterstock.com
+bitflip_domain: shutterstocj.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shutterstocj.com orig_domain:shutterstock.com
+bitflip_domain: kup.com code:200                                                                                                      in:shutterstock.com
+bitflip_domain: playstition.com code:200
+bitflip_domain: shuttersdock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shuttersdock.com orig_domain:shutterstock.comin:shutterstock.com                                                                                                                   in:shutterstock.com
+bitflip_domain: fawt.com code:200                                                                                                     in:shutterstock.com
+bitflip_domain: sjutterstock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=sjutterstock.com orig_domain:shutterstock.com                                                                                                                   in:shutterstock.com
+bitflip_domain: shuttesstock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shuttesstock.com orig_domain:shutterstock.com
+bitflip_domain: shutterstkck.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shutterstkck.com orig_domain:shutterstock.comin:shutterstock.com
+bitflip_domain: goofle.it code:200
+bitflip_domain: shuttdrstock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shuttdrstock.com orig_domain:shutterstock.com
+bitflip_domain: playstatikn.com code:200
+bitflip_domain: iftel.com code:200
+bitflip_domain: shutterstoco.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shutterstoco.com orig_domain:shutterstock.com
+bitflip_domain: chutterstock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=chutterstock.com orig_domain:shutterstock.com
+bitflip_domain: shutterwtock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shutterwtock.com orig_domain:shutterstock.com
+bitflip_domain: sxutterstock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=sxutterstock.com orig_domain:shutterstock.com
+bitflip_domain: shuttarstock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=SHUTTARSTOCK.COM orig_domain:shutterstock.com
+bitflip_domain: ou0.com code:301 redirect:http://ou0.com/wp/ orig_domain:oup.com
+bitflip_domain: oqp.com code:200
+bitflip_domain: xhamstdr.com code:200
+bitflip_domain: dunlingo.com code:200
+bitflip_domain: shutterstosk.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=SHUTTERSTOSK.COM orig_domain:shutterstock.com
+bitflip_domain: hhamster.com code:200
+bitflip_domain: googld.es code:301 redirect:https://choto.xyz/vx/uPbr2gKHAi3hyQps orig_domain:google.es
+bitflip_domain: shutterctock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=SHUTTERCTOCK.COM orig_domain:shutterstock.com
+bitflip_domain: rakuden.co.jp code:200
+bitflip_domain: shutterspock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shutterspock.com orig_domain:shutterstock.com
+bitflip_domain: huiwei.com code:200
+bitflip_domain: myspece.com code:200
+bitflip_domain: shutterstokk.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shutterstokk.com orig_domain:shutterstock.com
+bitflip_domain: mystace.com code:200
+bitflip_domain: brare.com code:200
+bitflip_domain: duolinco.com code:200
+bitflip_domain: shutderstock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shutderstock.com orig_domain:shutterstock.com
+bitflip_domain: duolingk.com code:200
+bitflip_domain: shutturstock.com code:301 redirect:https://shutterstock.7eer.net/c/13696/832036/1305?subid1=shutturstock.com orig_domain:shutterstock.com
+bitflip_domain: myspacd.com code:200
+bitflip_domain: xxamster.com code:200
+bitflip_domain: steamcommunkty.com code:302 redirect:https://choto.xyz/vx/63e22e60a435a orig_domain:steamcommunity.com
+bitflip_domain: freu.fr code:200
+bitflip_domain: meliatek.com code:200
+bitflip_domain: 563.com code:200
+bitflip_domain: cadendly.com code:200
+bitflip_domain: calandly.com code:200
+bitflip_domain: celendly.com code:200
+bitflip_domain: canendly.com code:200
+bitflip_domain: patreol.com code:200
+bitflip_domain: calenely.com code:200
+bitflip_domain: fasp.com code:403
+bitflip_domain: nmke.com code:200
+bitflip_domain: harokuapp.com code:200
+bitflip_domain: lkcdn.com code:404
+bitflip_domain: merriem-webster.com code:200
+bitflip_domain: yq7.com code:200
+bitflip_domain: ikaa.com code:200
+bitflip_domain: ikda.com code:200
+bitflip_domain: accuseather.com code:200
+bitflip_domain: aacuweather.com code:200
+bitflip_domain: sifa.com.cn code:302 redirect:https://e38bdb53b0d7432240acbf82c44015c8.zunjishoufa.quanfeng.net/?site=c2lmYS5jb20uY24=&acct=728 orig_domain:sina.com.cn
+bitflip_domain: airbnr.com code:200
+bitflip_domain: yandey.com code:200
+bitflip_domain: gosuslugk.ru code:200
+bitflip_domain: ckam.net code:200
+bitflip_domain: licen.com code:302 redirect:http://ww38.licen.com/ orig_domain:licdn.com
+bitflip_domain: timewdb.ru code:301 redirect:https://timeweb.com/ru/ orig_domain:timeweb.ru
+bitflip_domain: timeseb.ru code:301 redirect:https://timeweb.com/ru/ orig_domain:timeweb.ru
+bitflip_domain: timdweb.ru code:301 redirect:https://timeweb.com/ru/ orig_domain:timeweb.ru
+bitflip_domain: iatf.org code:200
+bitflip_domain: dontawesome.com code:200
+bitflip_domain: qina.com.cn code:200
+bitflip_domain: nsvld.com code:200
+bitflip_domain: wattpaf.com code:302 redirect:http://ww1.wattpaf.com orig_domain:wattpad.com
+bitflip_domain: queltrics.com code:200
+bitflip_domain: 063.com code:200
+bitflip_domain: yieldoo.com code:200
+bitflip_domain: pinimo.com code:200
+bitflip_domain: life361.com code:200
+bitflip_domain: tymeweb.ru code:302 redirect:http://tymeweb.ru/?h=d1c28188a624d00e121 orig_domain:timeweb.ru
+bitflip_domain: tkmeweb.ru code:301 redirect:https://timeweb.com/ru/ orig_domain:timeweb.ru
+bitflip_domain: timeveb.ru code:301 redirect:https://timeweb.com/ru/ orig_domain:timeweb.ru
+bitflip_domain: rv.ru code:403
+bitflip_domain: targe4.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=targe4.com orig_domain:target.com
+bitflip_domain: tarfet.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=tarfet.com orig_domain:target.com
+bitflip_domain: tarwet.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=tarwet.com orig_domain:target.com
+bitflip_domain: jicloud.com code:403
+bitflip_domain: tqrget.com code:301 redirect:https://target.com/ orig_domain:target.com
+bitflip_domain: britannika.com code:200
+bitflip_domain: cox.com code:301 redirect:https://www.cox.com/ orig_domain:box.com
+bitflip_domain: jox.com code:200
+bitflip_domain: wattrad.com code:429
+bitflip_domain: atpspot.com code:200
+bitflip_domain: 4arget.com code:301 redirect:https://target.com/ orig_domain:target.com
+bitflip_domain: tabget.com code:301 redirect:http://goto.target.com/c/13696/79373/2092?subid1=tabget.com orig_domain:target.com
+bitflip_domain: fox.com code:301 redirect:https://www.fox.com/ orig_domain:box.com
+bitflip_domain: darget.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=darget.com orig_domain:target.com
+bitflip_domain: apps0ot.com code:200
+bitflip_domain: apxspot.com code:200
+bitflip_domain: aprspot.com code:200
+bitflip_domain: appwpot.com code:200
+bitflip_domain: appspkt.com code:200
+bitflip_domain: bkx.com code:200
+bitflip_domain: aqpspot.com code:200
+bitflip_domain: app3pot.com code:200
+bitflip_domain: appsxot.com code:200
+bitflip_domain: appcpot.com code:200
+bitflip_domain: axpspot.com code:200
+bitflip_domain: appstot.com code:200
+bitflip_domain: a0pspot.com code:200
+bitflip_domain: apprpot.com code:200
+bitflip_domain: qppspot.com code:200
+bitflip_domain: appqpot.com code:200
+bitflip_domain: appspo4.com code:200
+bitflip_domain: appspov.com code:200
+bitflip_domain: appspmt.com code:200
+bitflip_domain: appspou.com code:200
+bitflip_domain: appspgt.com code:200
+bitflip_domain: appsqot.com code:200
+bitflip_domain: arpspot.com code:200
+bitflip_domain: apqspot.com code:200
+bitflip_domain: ap0spot.com code:200
+bitflip_domain: boh.com code:301 redirect:https://www.boh.com/ orig_domain:box.com
+bitflip_domain: targev.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=targev.com orig_domain:target.com
+bitflip_domain: tavget.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=TAVGET.COM orig_domain:target.com
+bitflip_domain: tareet.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=tareet.com orig_domain:target.com
+bitflip_domain: tasget.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=tasget.com orig_domain:target.com
+bitflip_domain: appspnt.com code:200
+bitflip_domain: tcrget.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=tcrget.com orig_domain:target.com
+bitflip_domain: bestbui.com code:200
+bitflip_domain: targdt.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=targdt.com orig_domain:target.com
+bitflip_domain: targut.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=targut.com orig_domain:target.com
+bitflip_domain: eppspot.com code:200
+bitflip_domain: life.net code:200
+bitflip_domain: terget.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=terget.com orig_domain:target.com
+bitflip_domain: cppspot.com code:200
+bitflip_domain: bestbux.com code:200
+bitflip_domain: elrais.com code:403
+bitflip_domain: mtq.ru code:403
+bitflip_domain: ippspot.com code:200
+bitflip_domain: elpaas.com code:302 redirect:http://www.plan239.com orig_domain:elpais.com
+bitflip_domain: egkn.com code:200
+bitflip_domain: ggogle.pl code:200
+bitflip_domain: targgt.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=targgt.com orig_domain:target.com
+bitflip_domain: taroet.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=taroet.com orig_domain:target.com
+bitflip_domain: coinmerketcap.com code:302 redirect:http://ww25.coinmerketcap.com/?subid1=20240424-0856-33be-ac59-a4cd3b55edf6 orig_domain:coinmarketcap.com
+bitflip_domain: livechqtinc.com code:302 redirect:http://livechqtinc.com/?h=3942270fa875ec791ae orig_domain:livechatinc.com
+bitflip_domain: targeu.com code:301 redirect:https://goto.target.com/c/13696/390556/2092?subid1=targeu.com orig_domain:target.com
+bitflip_domain: mefa.co.nz code:301 redirect:https://www.musicworks.co.nz/mefa-home/ orig_domain:mega.co.nz
+bitflip_domain: besubuy.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MjAzODYyfDEyMXwxfDcxNjEyfDE3MTM5MTMwMTZ8MXwxfDE4 orig_domain:bestbuy.com
+bitflip_domain: meee.org code:200
+bitflip_domain: mus.ru code:200
+bitflip_domain: okda.com code:302 redirect:https://venture.com/domains/okda.com orig_domain:okta.com
+bitflip_domain: lyvechatinc.com code:302 redirect:http://136.243.255.89/?h=ac820ff80fdb5cc2c6580295&l=livechatinc.com&bri=7e-7ec&i7=7ecc8-7ECC8007FE&i3=007fe-007FE858AA&J=0&j=38939&ro=100&v=35512&ju=91445724-0-78244745-0-1-10-007FE858AA orig_domain:livechatinc.com    
+bitflip_domain: livechatijc.com code:302 redirect:http://136.243.255.89/?h=476daf2962dc34ec301905d5&l=livechatinc.com&bri=35-350&i7=35078-35078411B6&i3=411b6-411B60B5BC&J=0&j=31122&ro=102&v=31995&ju=51812820-0-3406628-0-1-10-411B60B5BC orig_domain:livechatinc.com     
+bitflip_domain: googla.pl code:200
+bitflip_domain: lkvechatinc.com code:302 redirect:http://136.243.255.89/?h=2bfcbcf4a7098d99897755e4&l=livechatinc.com&bri=cd-cd1&i7=cd1f3-CD1F313BE3&i3=13be3-13BE32A914&J=0&j=37648&ro=100&v=34931&ju=50638843-0-18378651-0-1-10-1CEE42D4A7 orig_domain:livechatinc.com    
+bitflip_domain: livechatync.com code:302 redirect:http://136.243.255.89/?h=4ffac86a75f08f4aa1e7d105&l=livechatinc.com&bri=bd-bd3&i7=bd335-BD33545293&i3=45293-452930F96D&J=0&j=30628&ro=102&v=31773&ju=23232945-0-35282081-0-1-10-452930F96D orig_domain:livechatinc.com    
+bitflip_domain: livechatknc.com code:302 redirect:http://136.243.255.89/?h=61c4fef1aca3b1a0f6ea5973&l=livechatinc.com&bri=49-49d&i7=49d36-49D3655E56&i3=55e56-55E569B287&J=0&j=33073&ro=101&v=32873&ju=2277678-0-94144636-0-1-10-55E569B287 orig_domain:livechatinc.com     
+bitflip_domain: amizon.fr code:302 redirect:http://www.amazon.fr/ orig_domain:amazon.fr
+bitflip_domain: amazoj.fr code:302 redirect:http://www.amazon.fr/ orig_domain:amazon.fr
+bitflip_domain: gokgle.pl code:301 redirect:https://choto.xyz/vx/64788b0aba641 orig_domain:google.pl
+bitflip_domain: amazkn.fr code:302 redirect:http://www.amazon.fr/ orig_domain:amazon.fr
+bitflip_domain: taxad.com code:200
+bitflip_domain: gkogle.pl code:301 redirect:https://choto.xyz/vx/64788b0b26e10 orig_domain:google.pl
+bitflip_domain: foogle.pl code:200
+bitflip_domain: nioe.com code:200
+bitflip_domain: mediqfire.com code:200
+bitflip_domain: investopddia.com code:200
+bitflip_domain: qmazon.fr code:302 redirect:http://www.amazon.fr orig_domain:amazon.fr
+bitflip_domain: amqzon.fr code:302 redirect:http://www.amazon.fr orig_domain:amazon.fr
+bitflip_domain: temw.com code:200
+bitflip_domain: madiafire.com code:403
+bitflip_domain: intestopedia.com code:200
+bitflip_domain: teme.com code:200
+bitflip_domain: qmazon.ca code:301 redirect:http://amzn.to/1UYHwJg orig_domain:amazon.ca
+bitflip_domain: amazkn.ca code:301 redirect:http://www.amazon.ca/ orig_domain:amazon.ca
+bitflip_domain: amqzon.ca code:301 redirect:http://amzn.to/1MVGRb3 orig_domain:amazon.ca
+bitflip_domain: livechetinc.com code:302 redirect:http://136.243.255.89/?h=b21e7afb72cd64c80549f209&l=livechatinc.com&bri=b2-b2f&i7=b2f9e-B2F9ED0FAC&i3=d0fac-D0FACC5D9F&J=0&j=31274&ro=100&v=32064&ju=57515696-0-6550003-0-1-10-D0FACC5D9F orig_domain:livechatinc.com     
+bitflip_domain: amazoj.ca code:301 redirect:http://amzn.to/1UYHwJg orig_domain:amazon.ca
+bitflip_domain: amaxon.fr code:200
+bitflip_domain: amezon.ca code:301 redirect:http://amzn.to/1MVGRb3 orig_domain:amazon.ca
+bitflip_domain: demu.com code:301 redirect:https://www.halfen.com/en_DE orig_domain:temu.com
+bitflip_domain: eliyun.com code:200
+bitflip_domain: baloo.com code:301 redirect:https://www.disney.com/ orig_domain:badoo.com
+bitflip_domain: pornhuc.com code:301 redirect:https://www.pornhub.com/?utm_source=pornhuc.com&utm_medium=redirects&utm_campaign=tldredirects orig_domain:pornhub.com
+bitflip_domain: rhein.com code:200
+bitflip_domain: pornheb.com code:301 redirect:https://www.pornhub.com/?utm_source=pornheb.com&utm_medium=redirects&utm_campaign=tldredirects orig_domain:pornhub.com
+bitflip_domain: pornhuf.com code:301 redirect:https://www.pornhub.com/?utm_source=pornhuf.com&utm_medium=redirects&utm_campaign=tldredirects orig_domain:pornhub.com
+bitflip_domain: pornhuj.com code:301 redirect:https://www.pornhub.com/?utm_source=pornhuj.com&utm_medium=redirects&utm_campaign=tldredirects orig_domain:pornhub.com
+bitflip_domain: pornhur.com code:301 redirect:https://www.pornhub.com/?utm_source=pornhur.com&utm_medium=redirects&utm_campaign=tldredirects orig_domain:pornhub.com
+bitflip_domain: ubeb.com code:200
+bitflip_domain: chein.com code:200
+bitflip_domain: 0ornhub.com code:301 redirect:https://www.pornhub.com/?utm_source=0ornhub.com&utm_medium=redirects&utm_campaign=tldredirects orig_domain:pornhub.com
+bitflip_domain: whein.com code:200
+bitflip_domain: porjhub.com code:301 redirect:https://www.pornhub.com/?utm_source=porjhub.com&utm_medium=redirects&utm_campaign=tldredirects orig_domain:pornhub.com
+bitflip_domain: ufemy.com code:200
+bitflip_domain: boy.com code:200
+bitflip_domain: lifechatinc.com code:302 redirect:http://136.243.255.89/?h=7e160763c38314896c00be65&l=livechatinc.com&bri=77-772&i7=77214-7721414958&i3=14958-14958EFB04&J=0&j=33069&ro=101&v=32871&ju=32926811-0-71207884-0-1-10-14958EFB04 orig_domain:livechatinc.com    
+bitflip_domain: pornhtb.com code:301 redirect:https://www.pornhub.com/?utm_source=pornhtb.com&utm_medium=redirects&utm_campaign=tldredirects orig_domain:pornhub.com
+bitflip_domain: iulu.com code:200
+bitflip_domain: fandoo.com code:200
+bitflip_domain: rornhub.com code:200
+bitflip_domain: livecjatinc.com code:302 redirect:http://136.243.255.89/?h=7708a72b1a0c4238cf35dbd9&l=livechatinc.com&bri=cf-cf0&i7=cf043-CF04311519&i3=0fe05-0FE05CF1F6&J=0&j=31194&ro=102&v=32028&ju=57208406-0-91235978-0-1-10-0FE05CF1F6 orig_domain:livechatinc.com    
+bitflip_domain: tumu.com code:404
+bitflip_domain: slein.com code:200
+bitflip_domain: pornjub.com code:301 redirect:https://www.pornhub.com/?utm_source=pornjub.com&utm_medium=redirects&utm_campaign=tldredirects orig_domain:pornhub.com
+bitflip_domain: docke2.com code:404
+bitflip_domain: hrr.org code:301 redirect:https://www.astrazeneca.com orig_domain:hbr.org
+bitflip_domain: talegram.org code:200
+bitflip_domain: dockev.com code:301 redirect:https://brandip.com/domain-names-for-sale/public/dockev-com orig_domain:docker.com
+bitflip_domain: livdchatinc.com code:302 redirect:http://136.243.255.89/?h=56ff7b9b33f0026499fe2491&l=livechatinc.com&bri=45-454&i7=454f5-454F52C2DA&i3=0e629-0E629F17AB&J=0&j=33378&ro=100&v=33010&ju=80644255-0-71961749-0-1-10-0E629F17AB orig_domain:livechatinc.com    
+bitflip_domain: homedupot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=homedupot.com orig_domain:homedepot.com
+bitflip_domain: doccer.com code:200
+bitflip_domain: homeddpot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=homeddpot.com orig_domain:homedepot.com
+bitflip_domain: homudepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=HomuDepot.com orig_domain:homedepot.com
+bitflip_domain: hul5.com code:301 redirect:http://www.hul5.com/ orig_domain:hulu.com
+bitflip_domain: hometepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=hometepot.com orig_domain:homedepot.com
+bitflip_domain: dgcker.com code:404
+bitflip_domain: 9img.com code:200
+bitflip_domain: gmhc.net code:200
+bitflip_domain: hvideos.com code:302 redirect:https://www.camw.com/en/girls/asian?selectedFilters=34 orig_domain:xvideos.com
+bitflip_domain: homedepod.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=homedepod.com orig_domain:homedepot.com
+bitflip_domain: iomedepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=iomedepot.com orig_domain:homedepot.com
+bitflip_domain: jomedepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=jomedepot.com orig_domain:homedepot.com
+bitflip_domain: inam.de code:200
+bitflip_domain: homede0ot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=homede0ot.com orig_domain:homedepot.com
+bitflip_domain: hkmedepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=hkmedepot.com orig_domain:homedepot.com
+bitflip_domain: hooedepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=hooedepot.com orig_domain:homedepot.com
+bitflip_domain: hmmedepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=hmmedepot.com orig_domain:homedepot.com
+bitflip_domain: homadepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=homadepot.com orig_domain:homedepot.com
+bitflip_domain: dobker.com code:404
+bitflip_domain: unesko.org code:200
+bitflip_domain: tocker.com code:200
+bitflip_domain: nationelgeographic.com code:200
+bitflip_domain: userati.com code:301 redirect:https://daaz.com/redirect/userati.com orig_domain:userapi.com
+bitflip_domain: homederot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=homederot.com orig_domain:homedepot.com
+bitflip_domain: homefepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=homefepot.com orig_domain:homedepot.com
+bitflip_domain: homedepkt.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=homedepkt.com orig_domain:homedepot.com
+bitflip_domain: pmrnhub.com code:200
+bitflip_domain: dockmr.com code:307
+bitflip_domain: xvkdeos.com code:302 redirect:http://ww25.xvkdeos.com/?subid1=20240424-0903-3056-bc54-eef82730ac46 orig_domain:xvideos.com
+bitflip_domain: homedepop.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=homedepop.com orig_domain:homedepot.com
+bitflip_domain: bambridge.org code:200
+bitflip_domain: homddepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=homddepot.com orig_domain:homedepot.com
+bitflip_domain: xvydeos.com code:302 redirect:https://www.camwith.com orig_domain:xvideos.com
+bitflip_domain: xvideks.com code:302 redirect:http://ww25.xvideks.com/?subid1=20240424-0903-47fd-955f-ce8271072799 orig_domain:xvideos.com
+bitflip_domain: pcac.com code:200
+bitflip_domain: jotgorm.com code:200
+bitflip_domain: naee.com code:200
+bitflip_domain: bindcamp.com code:302 redirect:http://ww25.bindcamp.com/?subid1=20240424-0903-53d0-9a40-1994be180d41 orig_domain:bandcamp.com
+bitflip_domain: namd.com code:200
+bitflip_domain: pkcc.com code:200
+bitflip_domain: pckc.com code:200
+bitflip_domain: naie.com code:200
+bitflip_domain: dockeb.com code:307
+bitflip_domain: pcbc.com code:301 redirect:https://www.pcbc.com/ orig_domain:pccc.com
+bitflip_domain: ion.com code:200
+bitflip_domain: ditto.com code:301 redirect:https://luna.io:443/ orig_domain:datto.com
+bitflip_domain: menovo.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=menovo.com orig_domain:lenovo.com
+bitflip_domain: ldnovo.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=LDNOVO.COM orig_domain:lenovo.com
+bitflip_domain: datdo.com code:200
+bitflip_domain: homeeepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=homeeepot.com orig_domain:homedepot.com
+bitflip_domain: hommdepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=hommdepot.com orig_domain:homedepot.com
+bitflip_domain: pccs.com code:302 redirect:http://ww38.pccs.com/ orig_domain:pccc.com
+bitflip_domain: lenoro.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=LENORO.COM orig_domain:lenovo.com
+bitflip_domain: udemx.com code:200
+bitflip_domain: lejovo.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=LEJOVO.COM orig_domain:lenovo.com
+bitflip_domain: xiaoli.net code:403
+bitflip_domain: igl.com code:302 redirect:https://iglcom.carrd.co/ orig_domain:ign.com
+bitflip_domain: lelovo.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=lelovo.com orig_domain:lenovo.com
+bitflip_domain: hoeedepot.com code:301 redirect:https://homedepot.sjv.io/c/1243436/456723/8154?subid1=hoeedepot.com orig_domain:homedepot.com
+bitflip_domain: lennvo.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=lennvo.com orig_domain:lenovo.com
+bitflip_domain: henovo.com code:301 redirect:http://lenovo.vzew.net/c/13696/218864/3808?subid1=henovo.com orig_domain:lenovo.com
+bitflip_domain: leoovo.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=leoovo.com orig_domain:lenovo.com
+bitflip_domain: lenkvo.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=lenkvo.com orig_domain:lenovo.com
+bitflip_domain: lenovk.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=LENOVK.COM orig_domain:lenovo.com
+bitflip_domain: kgn.com code:200
+bitflip_domain: pelekom.de code:200
+bitflip_domain: lumonde.fr code:200
+bitflip_domain: lenovn.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=LENOVN.COM orig_domain:lenovo.com
+bitflip_domain: youkq.com code:301 redirect:http://www.youkq.com/index.php orig_domain:youku.com
+bitflip_domain: lmnovo.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=lmnovo.com orig_domain:lenovo.com
+bitflip_domain: xbr.org code:200
+bitflip_domain: spbid.ru code:200
+bitflip_domain: imam.de code:301 redirect:http://www.branchen.de orig_domain:ioam.de
+bitflip_domain: sghwab.com code:200
+bitflip_domain: coogle.co.in code:301 redirect:https://daaz.com/redirect/coogle.co.in orig_domain:google.co.in
+bitflip_domain: dapto.com code:200
+bitflip_domain: lunovo.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=LUNOVO.COM orig_domain:lenovo.com
+bitflip_domain: lengvo.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=lengvo.com orig_domain:lenovo.com
+bitflip_domain: fyverr.com code:200
+bitflip_domain: schweb.com code:403
+bitflip_domain: cchwab.com code:200
+bitflip_domain: 0ccc.com code:200
+bitflip_domain: lenoto.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=lenoto.com orig_domain:lenovo.com
+bitflip_domain: zillos.com code:200
+bitflip_domain: na-e.com code:301 redirect:https://www.na-e.com/ orig_domain:name.com
+bitflip_domain: delekom.de code:301 redirect:https://www.telekom.de/start orig_domain:telekom.de
+bitflip_domain: teleiom.de code:301 redirect:https://www.telekom.de/start orig_domain:telekom.de
+bitflip_domain: xillow.com code:307
+bitflip_domain: telecom.de code:301 redirect:https://www.telekom.de/start orig_domain:telekom.de
+bitflip_domain: rcckspace.com code:301 redirect:http://www.rackspace.com/ orig_domain:rackspace.com
+bitflip_domain: reckspace.com code:301 redirect:http://www.rackspace.com/ orig_domain:rackspace.com
+bitflip_domain: xeople.com code:301 redirect:https://xeople.com/ orig_domain:people.com
+bitflip_domain: teldkom.de code:301 redirect:https://www.telekom.de/start orig_domain:telekom.de
+bitflip_domain: fiverz.com code:403
+bitflip_domain: telejom.de code:301 redirect:https://www.telekom.de/start orig_domain:telekom.de
+bitflip_domain: rackspaae.com code:301 redirect:http://www.rackspace.com/ orig_domain:rackspace.com
+bitflip_domain: nale.com code:200
+bitflip_domain: raccspace.com code:301 redirect:http://www.rackspace.com/ orig_domain:rackspace.com
+bitflip_domain: peopla.com code:403
+bitflip_domain: kicostarter.com code:200
+bitflip_domain: fivdrr.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MTQ5ODQyfDEyMXwxfDg2OTk4OXwxNzEzOTEzNjk5fDF8MXw0Mw== orig_domain:fiverr.com
+bitflip_domain: racksqace.com code:301 redirect:http://www.rackspace.com/ orig_domain:rackspace.com
+bitflip_domain: shaturbate.com code:302 redirect:https://chaturbate.com/affiliates/in/?track=chatDirect&tour=grq0&campaign=NG5zP orig_domain:chaturbate.com
+bitflip_domain: chiturbate.com code:302 redirect:https://go.xlirdr.com/easy?campaignId=22a20ecf304e1cfc712e798ada6d3e981126edfd8fc3c6ada1315e1efd6accd1&userId=74c8a86a357816de5b9f5f66b6eef234af7cbe8395a1e11ec21b80891a98df4f orig_domain:chaturbate.com
+bitflip_domain: chadurbate.com code:200
+bitflip_domain: chaturbata.com code:200
+bitflip_domain: bankofamericq.com code:301 redirect:https://www.bankofamerica.com/ orig_domain:bankofamerica.com
+bitflip_domain: rackspage.com code:301 redirect:http://www.rackspace.com/ orig_domain:rackspace.com
+bitflip_domain: kickstartes.com code:200
+bitflip_domain: chatuzbate.com code:302 redirect:http://pvrp8.bemobtrk.com/go/7966d856-42e1-47c8-8bc2-cfc5805da152?site_url=chatuzbate.com orig_domain:chaturbate.com
+bitflip_domain: rickspace.com code:403
+bitflip_domain: packspace.com code:200
+bitflip_domain: chattrbate.com code:301 redirect:https://imlive.com/wmaster.ashx?WID=124892698425&LinkID=701&queryid=138&from=freevideo6&promocode=TRKIML9901 orig_domain:chaturbate.com
+bitflip_domain: chaturbete.com code:302 redirect:https://chaturbate.com/affiliates/in/?track=chatDirect&tour=grq0&campaign=NG5zP orig_domain:chaturbate.com
+bitflip_domain: lenofo.com code:301 redirect:https://lenovo.vzew.net/c/13696/218864/3808?subid1=lenofo.com orig_domain:lenovo.com
+bitflip_domain: bankogamerica.com code:301 redirect:https://www.bankofamerica.com/ orig_domain:bankofamerica.com
+bitflip_domain: ucps.com code:200
+bitflip_domain: claver.com code:200
+bitflip_domain: bankofqmerica.com code:301 redirect:https://www.bankofamerica.com/ orig_domain:bankofamerica.com
+bitflip_domain: bankodamerica.com code:301 redirect:https://www.bankofamerica.com/ orig_domain:bankofamerica.com
+bitflip_domain: bitdegender.com code:301 redirect:https://www.linkconnector.com/ta.php?lc=025724093241004679&atid=bitdegender.com orig_domain:bitdefender.com
+bitflip_domain: chatu2bate.com code:302 redirect:http://pvrp8.bemobtrk.com/go/7966d856-42e1-47c8-8bc2-cfc5805da152?site_url=chatu2bate.com orig_domain:chaturbate.com
+bitflip_domain: wsps.com code:302 redirect:http://ww38.wsps.com/ orig_domain:usps.com
+bitflip_domain: bankofamarica.com code:200
+bitflip_domain: youju.com code:200
+bitflip_domain: bitdefeneer.com code:302 redirect:http://ww38.bitdefeneer.com/ orig_domain:bitdefender.com
+bitflip_domain: baniofamerica.com code:200
+bitflip_domain: chqturbate.com code:200
+bitflip_domain: clerer.com code:200
+bitflip_domain: a-mk.net code:200
+bitflip_domain: hugfpost.com code:200
+bitflip_domain: bitdefander.com code:301 redirect:https://www.linkconnector.com/ta.php?lc=025724093241004679&atid=BITDEFANDER.COM orig_domain:bitdefender.com
+bitflip_domain: chatuvbate.com code:302 redirect:http://pvrp8.bemobtrk.com/go/7966d856-42e1-47c8-8bc2-cfc5805da152?site_url=chatuvbate.com orig_domain:chaturbate.com
+bitflip_domain: ammo.net code:301 redirect:https://ammo.com/ orig_domain:a-mo.net
+bitflip_domain: bitdefendar.com code:301 redirect:https://www.linkconnector.com/ta.php?lc=025724093241004679&atid=BITDEFENDAR.COM orig_domain:bitdefender.com
+bitflip_domain: bittefender.com code:301 redirect:https://www.linkconnector.com/ta.php?lc=025724093241004679&atid=BITTEFENDER.COM orig_domain:bitdefender.com
+bitflip_domain: bitdedender.com code:301 redirect:https://www.linkconnector.com/ta.php?lc=025724093241004679&atid=BITDEDENDER.COM orig_domain:bitdefender.com
+bitflip_domain: bitdevender.com code:301 redirect:https://www.linkconnector.com/ta.php?lc=025724093241004679&atid=BITDEVENDER.COM orig_domain:bitdefender.com
+bitflip_domain: bitdafender.com code:301 redirect:https://www.linkconnector.com/ta.php?lc=025724093241004679&atid=BITDAFENDER.COM orig_domain:bitdefender.com
+bitflip_domain: alazon.es code:302 redirect:http://www.amazon.es/ orig_domain:amazon.es
+bitflip_domain: amizon.es code:302 redirect:http://www.amazon.es/ orig_domain:amazon.es
+bitflip_domain: onling.net code:301 redirect:http://www.onling.net/ orig_domain:online.net
+bitflip_domain: ioem.de code:200
+bitflip_domain: slever.com code:200
+bitflip_domain: amqzon.es code:302 redirect:http://www.amazon.es/ orig_domain:amazon.es
+bitflip_domain: eniview.com code:302 redirect:http://enisyst.de orig_domain:aniview.com
+bitflip_domain: djs.com code:301 redirect:https://www.djs.com/ orig_domain:dns.com
+bitflip_domain: amazoj.es code:302 redirect:http://www.amazon.es/ orig_domain:amazon.es
+bitflip_domain: bytdefender.com code:301 redirect:https://www.linkconnector.com/ta.php?lc=025724093241004679&atid=bytdefender.com orig_domain:bitdefender.com
+bitflip_domain: qmazon.es code:302 redirect:http://www.amazon.es/ orig_domain:amazon.es
+bitflip_domain: amazkn.es code:302 redirect:http://www.amazon.es/ orig_domain:amazon.es
+bitflip_domain: iargo.com code:302 redirect:http://www.IARGO.COM/?from=@ orig_domain:kargo.com
+bitflip_domain: amaxon.es code:302 redirect:http://www.amazon.es/ orig_domain:amazon.es
+bitflip_domain: dfs.com code:301 redirect:https://www.dfs.com/ orig_domain:dns.com
+bitflip_domain: drealhost.com code:200
+bitflip_domain: bitdefenter.com code:301 redirect:https://www.linkconnector.com/ta.php?lc=025724093241004679&atid=BITDEFENTER.COM orig_domain:bitdefender.com
+bitflip_domain: chavurbate.com code:200
+bitflip_domain: upworj.com code:200
+bitflip_domain: rfc.ru code:200
+bitflip_domain: xm.com code:301 redirect:https://www.xm.com/ orig_domain:hm.com
+bitflip_domain: ecay.co.uk code:403
+bitflip_domain: xfiniti.com code:200
+bitflip_domain: t-onlije.de code:301 redirect:https://www.t-online.de orig_domain:t-online.de
+bitflip_domain: t-onnine.de code:301 redirect:https://www.t-online.de orig_domain:t-online.de
+bitflip_domain: mgil.com code:200
+bitflip_domain: t-olline.de code:301 redirect:https://www.t-online.de orig_domain:t-online.de
+bitflip_domain: 8nxx.com code:403
+bitflip_domain: t-ooline.de code:301 redirect:https://www.t-online.de orig_domain:t-online.de
+bitflip_domain: t-onlind.de code:301 redirect:https://www.t-online.de orig_domain:t-online.de
+bitflip_domain: lefifaro.fr code:200
+bitflip_domain: ho.com code:302 redirect:https://venture.com/domains/ho.com orig_domain:hm.com
+bitflip_domain: norfvpn.com code:302 redirect:http://norfvpn.com/?utm_source=nordvpn.com&utm_medium=norfvpn.com&utm_campaign=norfvpn.com&lid=be25c097a39bb308&lsess=e96a4 orig_domain:nordvpn.com
+bitflip_domain: nordvpj.com code:302 redirect:http://136.243.255.89/?h=e545b455fda9909772c75a4d&l=nordvpn.com&bri=04-045&i7=045a9-045A9281BD&i3=281bd-281BDE99E2&J=0&j=20762&ro=101&v=27335&ju=25972109-0-66423542-0-1-10-281BDE99E2 orig_domain:nordvpn.com
+bitflip_domain: alazon.it code:302 redirect:http://www.amazon.it orig_domain:amazon.it
+bitflip_domain: redhad.com code:200
+bitflip_domain: nordfpn.com code:302 redirect:http://136.243.255.89/?h=7490902fbbc752a8b81bd229&l=nordvpn.com&bri=83-83e&i7=83ee2-83EE21BACA&i3=1baca-1BACAFB97B&J=0&j=20761&ro=102&v=27335&ju=70274026-0-28119035-0-1-10-1BACAFB97B orig_domain:nordvpn.com
+bitflip_domain: abay.co.uk code:200
+bitflip_domain: atun.tv code:403
+bitflip_domain: amqzon.it code:302 redirect:http://www.amazon.it orig_domain:amazon.it
+bitflip_domain: pacc.com code:200
+bitflip_domain: legigaro.fr code:200
+bitflip_domain: brafe.com code:302 redirect:https://www.brafe.engineering/ orig_domain:brave.com
+bitflip_domain: brava.com code:301 redirect:https://www.brava.com/ orig_domain:brave.com
+bitflip_domain: nordwpn.com code:302 redirect:http://136.243.255.89/?h=1b0c441300320bdfb22e5b7c&l=nordvpn.com&bri=06-064&i7=064b8-064B8DE0D5&i3=61cfb-61CFB0FD84&J=0&j=21315&ro=100&v=27584&ju=26966565-0-15953651-0-1-10-61CFB0FD84 orig_domain:nordvpn.com
+bitflip_domain: brawe.com code:200
+bitflip_domain: nortvpn.com code:302 redirect:http://136.243.255.89/?h=c1e4e7aed59f16ce5ef6a6d1&l=nordvpn.com&bri=1a-1a1&i7=1a166-1A1668E8B1&i3=8e8b1-8E8B1136C6&J=0&j=21316&ro=102&v=27584&ju=40357710-0-54938023-0-1-10-8E8B1136C6 orig_domain:nordvpn.com
+bitflip_domain: qmazon.it code:302 redirect:http://www.amazon.it orig_domain:amazon.it
+bitflip_domain: amizon.it code:302 redirect:http://www.amazon.it orig_domain:amazon.it
+bitflip_domain: amazoj.it code:302 redirect:http://www.amazon.it orig_domain:amazon.it
+bitflip_domain: lorton.com code:200
+bitflip_domain: nkrton.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MjQzNzk4fDEyM3wxfDQzMzY0fDE3MTM5MTQwNjZ8MXwxfDk4 orig_domain:norton.com
+bitflip_domain: nortkn.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MjQzOTcxfDEyM3wxfDc2MDA3fDE3MTM5MTQwNjd8MXwxfDk4 orig_domain:norton.com
+bitflip_domain: nnrton.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MjQ0MTE1fDEyMnwxfDQzMzY0fDE3MTM5MTQwNjd8MXwxfDk4 orig_domain:norton.com
+bitflip_domain: bedex.com code:200
+bitflip_domain: chanfe.org code:200
+bitflip_domain: onlydans.com code:200
+bitflip_domain: nortnn.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MjQ2MDM3fDEyMXwxfDc2MDA3fDE3MTM5MTQwNzZ8MXwxfDk4 orig_domain:norton.com
+bitflip_domain: amazkn.it code:302 redirect:http://www.amazon.it orig_domain:amazon.it
+bitflip_domain: idjust.com code:302 redirect:http://idjust.de orig_domain:adjust.com
+bitflip_domain: nordv0n.com code:302 redirect:http://136.243.255.89/?h=9316b6fbb71736825ff1b31a&l=nordvpn.com&bri=cd-cd9&i7=cd9b6-CD9B6F0399&i3=f0399-F03997816E&J=0&j=30286&ro=102&v=31619&ju=58592220-0-36500335-0-1-10-F03997816E orig_domain:nordvpn.com
+bitflip_domain: amaxon.it code:302 redirect:http://www.amazon.it orig_domain:amazon.it
+bitflip_domain: jorton.com code:302 redirect:http://ortonrojas.wordpress.com/ orig_domain:norton.com
+bitflip_domain: nobton.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=MjUxNzE3fDEyM3wxfDQzMzY0fDE3MTM5MTQwOTl8MXwxfDk4 orig_domain:norton.com
+bitflip_domain: nortoj.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=Njl8MTIxfDF8NDMzNjR8MTcxMzkxNDEwMHwxfDF8OTg= orig_domain:norton.com
+bitflip_domain: gedex.com code:200
+bitflip_domain: sija.com.cn code:200
+bitflip_domain: dirneyplus.com code:200
+bitflip_domain: discortapp.com code:200
+bitflip_domain: dbay.co.uk code:200
+bitflip_domain: 1drf.com code:301 redirect:https://64.sb:8810/#/ orig_domain:1drv.com
+bitflip_domain: disneypmus.com code:200
+bitflip_domain: onlyfaos.com code:403
+bitflip_domain: upvork.com code:200
+bitflip_domain: onlyfcns.com code:403
+bitflip_domain: disney0lus.com code:200
+bitflip_domain: cild.de code:200
+bitflip_domain: primewideo.com code:200
+bitflip_domain: alazon.in code:301 redirect:https://www.amazon.in:443/ orig_domain:amazon.in
+bitflip_domain: amqzon.in code:301 redirect:https://www.amazon.in:443/ orig_domain:amazon.in
+bitflip_domain: qmazon.in code:301 redirect:https://www.amazon.in:443/ orig_domain:amazon.in
+bitflip_domain: byld.de code:200
+bitflip_domain: fedep.com code:200
+bitflip_domain: amezon.in code:301 redirect:https://www.amazon.in:443/ orig_domain:amazon.in
+bitflip_domain: amazkn.in code:301 redirect:https://www.amazon.in:443/ orig_domain:amazon.in
+bitflip_domain: amajon.in code:301 redirect:http://bit.ly/1Dv4bH5 orig_domain:amazon.in
+bitflip_domain: amizon.in code:301 redirect:https://www.amazon.in:443/ orig_domain:amazon.in
+bitflip_domain: sernam.cz code:302 redirect:https://adsheavy.com/ad/?utm_source=sernam.cz orig_domain:seznam.cz
+bitflip_domain: zoio.com code:200
+bitflip_domain: reznam.cz code:302 redirect:https://reznam.medialhive.com/ orig_domain:seznam.cz
+bitflip_domain: amazoj.in code:301 redirect:https://www.amazon.in:443/ orig_domain:amazon.in
+bitflip_domain: zgho.com code:200
+bitflip_domain: fitlab.com code:302 redirect:https://www.fitlab.com/ orig_domain:gitlab.com
+bitflip_domain: erkme.com code:200
+bitflip_domain: unqkg.com code:200
+bitflip_domain: brive.com code:200
+bitflip_domain: ksmcdn.com code:200
+bitflip_domain: onlyfals.com code:403
+bitflip_domain: canonicel.com code:301 redirect:https://canonical.com/ orig_domain:canonical.com
+bitflip_domain: youou.com code:200
+bitflip_domain: kanonical.com code:301 redirect:https://canonical.com/ orig_domain:canonical.com
+bitflip_domain: moc.com code:301 redirect:https://www.marathonoil.com/ orig_domain:mob.com
+bitflip_domain: adpta.com code:302 redirect:login.php orig_domain:adrta.com
+bitflip_domain: tasla.com code:200
+bitflip_domain: teqla.com code:200
+bitflip_domain: mnb.com code:200
+bitflip_domain: tesda.com code:200
+bitflip_domain: desla.com code:200
+bitflip_domain: vesla.com code:200
+bitflip_domain: dqum.net code:200
+bitflip_domain: taum.net code:200
+bitflip_domain: arcgic.com code:307
+bitflip_domain: ganius.com code:200
+bitflip_domain: pento.io code:301 redirect:https://www.pento.io/ orig_domain:pendo.io
+bitflip_domain: mof.com code:200
+bitflip_domain: rapid3.com code:301 redirect:http://www.adscheaper.com orig_domain:rapid7.com
+bitflip_domain: repubblice.it code:200
+bitflip_domain: loses.com code:200
+bitflip_domain: 3v0.cn code:200
+bitflip_domain: biblegeteway.com code:200
+bitflip_domain: haylink.me code:200
+bitflip_domain: pushar.com code:403
+bitflip_domain: qmazon.com.br code:301 redirect:http://bit.ly/1BBFY2w orig_domain:amazon.com.br
+bitflip_domain: amqzon.com.br code:301 redirect:http://bit.ly/1BBFY2w orig_domain:amazon.com.br
+bitflip_domain: pusler.com code:200
+bitflip_domain: secment.io code:200
+bitflip_domain: stlashtop.com code:200
+bitflip_domain: songbi.com code:200
+bitflip_domain: aragis.com code:200
+bitflip_domain: discocs.com code:200
+bitflip_domain: ebcy.de code:302 redirect:https://www.domainmarkt.de/ebcy.de orig_domain:ebay.de
+bitflip_domain: amazoj.com.br code:301 redirect:http://bit.ly/1BBFY2w orig_domain:amazon.com.br
+bitflip_domain: amizon.com.br code:301 redirect:http://bit.ly/1BBFY2w orig_domain:amazon.com.br
+bitflip_domain: adsoll.com code:302 redirect:http://www.adsoll.com/ orig_domain:adroll.com
+bitflip_domain: amaxon.com.br code:301 redirect:http://bit.ly/1BBFY2w orig_domain:amazon.com.br
+bitflip_domain: globalsion.com code:200
+bitflip_domain: ebaq.de code:200
+bitflip_domain: alazon.com.br code:301 redirect:http://bit.ly/1BBFY2w orig_domain:amazon.com.br
+bitflip_domain: kkhls.com code:200
+bitflip_domain: wikyhow.com code:301 redirect:http://www.wikyhow.com/ orig_domain:wikihow.com
+bitflip_domain: ji-do.com code:403
+bitflip_domain: rudd.it code:200
+bitflip_domain: raaltor.com code:200
+bitflip_domain: dbay.de code:302 redirect:https://www.infothek.de/ebay.html orig_domain:ebay.de
+bitflip_domain: gbay.de code:200
+bitflip_domain: 36p.cn code:403
+bitflip_domain: tipeform.com code:200
+bitflip_domain: jkmdo.com code:302 redirect:http://jkmdo.com/?h=7a4ef86155f23ddef75 orig_domain:jimdo.com
+bitflip_domain: annovid.com code:200
+bitflip_domain: vedd.it code:200
+bitflip_domain: reed.it code:200
+bitflip_domain: amazkn.com.br code:301 redirect:http://bit.ly/1BBFY2w orig_domain:amazon.com.br
+bitflip_domain: gbc.ca code:302 redirect:http://www.pml.ca orig_domain:cbc.ca
+bitflip_domain: xianmi.net code:301 redirect:http://www.xianmi.net orig_domain:xiaomi.net
+bitflip_domain: alcestry.com code:301 redirect:https://click.linksynergy.com/fs-bin/click?id=B8ioT6skXDw&offerid=1326442.16&type=3&subid=0 orig_domain:ancestry.com
+bitflip_domain: herox.com code:301 redirect:https://www.herox.com/ orig_domain:xerox.com
+bitflip_domain: auizlet.com code:200
+bitflip_domain: ankestry.com code:301 redirect:https://click.linksynergy.com/fs-bin/click?id=B8ioT6skXDw&offerid=1326442.16&type=3&subid=0 orig_domain:ancestry.com
+bitflip_domain: quixlet.com code:200
+bitflip_domain: quizled.com code:200
+bitflip_domain: ueforum.org code:403
+bitflip_domain: ancdstry.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=NTkxMDd8MTIzfDF8NDMzNjR8MTcxMzkxNDMzN3wxfDF8MjYy orig_domain:ancestry.com
+bitflip_domain: isos.com code:301 redirect:https://www.isos.com/ orig_domain:asos.com
+bitflip_domain: banance.com code:302 redirect:https://t.co/ssyOg0ErZR orig_domain:binance.com
+bitflip_domain: enmundo.es code:200
+bitflip_domain: ubft.com code:200
+bitflip_domain: tbnt.com code:200
+bitflip_domain: anbestry.com code:200
+bitflip_domain: mediafine.com code:200
+bitflip_domain: qvito.ru code:301 redirect:https://choto.xyz/vx/UhwmI orig_domain:avito.ru
+bitflip_domain: qncestry.com code:301 redirect:https://click.linksynergy.com/fs-bin/click?id=B8ioT6skXDw&offerid=1326442.16&type=3&subid=0 orig_domain:ancestry.com
+bitflip_domain: binince.com code:302 redirect:https://t.co/ssyOg0ErZR orig_domain:binance.com
+bitflip_domain: nbc.com code:301 redirect:https://www.nbc.com/ orig_domain:nba.com
+bitflip_domain: bknance.com code:302 redirect:https://ww2.affinity.net/fly?no_capp=2&enk=NjY0MjB8MTIxfDF8NTgyNTEyfDE3MTM5MTQzNjZ8MXwxfDE0MTQ1 orig_domain:binance.com
+bitflip_domain: ancustry.com code:301 redirect:https://click.linksynergy.com/fs-bin/click?id=B8ioT6skXDw&offerid=1326442.16&type=3&subid=0 orig_domain:ancestry.com
+bitflip_domain: ancesdry.com code:301 redirect:https://click.linksynergy.com/fs-bin/click?id=B8ioT6skXDw&offerid=1326442.16&type=3&subid=0 orig_domain:ancestry.com
+bitflip_domain: macxs.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15578706&afsrc=1?sid=macxs.com orig_domain:macys.com
+bitflip_domain: magys.com code:200
+bitflip_domain: binancm.com code:302 redirect:https://accounts.binance.com/en/register?ref=AGX7KDPO orig_domain:binance.com
+bitflip_domain: cosuco.com code:200
+bitflip_domain: mccys.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15578706&afsrc=1?sid=mccys.com orig_domain:macys.com
+bitflip_domain: edpi.com code:200
+bitflip_domain: macyr.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15578706&afsrc=1?sid=macyr.com orig_domain:macys.com
+bitflip_domain: macyc.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15578706&afsrc=1?sid=macyc.com orig_domain:macys.com
+bitflip_domain: costao.com code:200
+bitflip_domain: costck.com code:200
+bitflip_domain: elmundk.es code:301 redirect:https://choto.xyz/vx/sA9UO orig_domain:elmundo.es
+bitflip_domain: flurri.com code:403
+bitflip_domain: angestry.com code:301 redirect:https://click.linksynergy.com/fs-bin/click?id=B8ioT6skXDw&offerid=1326442.16&type=3&subid=0 orig_domain:ancestry.com
+bitflip_domain: otdo.de code:301 redirect:https://www.brandshelter.com/registered/ orig_domain:otto.de
+bitflip_domain: macqs.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15578706&afsrc=1?sid=macqs.com orig_domain:macys.com
+bitflip_domain: ntto.de code:302 redirect:http://ww38.ntto.de/ orig_domain:otto.de
+bitflip_domain: coctco.com code:200
+bitflip_domain: plez.tv code:302 redirect:http://q1.quotes.com/18960276-01c8-11ef-9f8a-28a4b5fe2fb8 orig_domain:plex.tv
+bitflip_domain: dlmundo.es code:302 redirect:https://choto.xyz/vx/r7wnb orig_domain:elmundo.es
+bitflip_domain: 0exels.com code:200
+bitflip_domain: maays.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15578706&afsrc=1?sid=maays.com orig_domain:macys.com
+bitflip_domain: agola.com code:301 redirect:https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1451793 orig_domain:agoda.com
+bitflip_domain: agode.com code:301 redirect:https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1451793 orig_domain:agoda.com
+bitflip_domain: intdria.pl code:301 redirect:https://choto.xyz/vx/64788b038fe5d orig_domain:interia.pl
+bitflip_domain: macyq.com code:301 redirect:https://www.kqzyfj.com/click-2798135-15578706&afsrc=1?sid=macyq.com orig_domain:macys.com
+bitflip_domain: blipkart.com code:403
+bitflip_domain: flipiart.com code:200
+bitflip_domain: exqedia.com code:200
+bitflip_domain: viontakte.ru code:200
+bitflip_domain: flipkard.com code:307
+bitflip_domain: interii.pl code:302 redirect:https://www.interia.pl orig_domain:interia.pl
+bitflip_domain: extedia.com code:200
+bitflip_domain: binancu.com code:302 redirect:https://accounts.binance.com/en/register?ref=AGX7KDPO orig_domain:binance.com
+bitflip_domain: psyclologytoday.com code:200
+bitflip_domain: outo.de code:301 redirect:https://www.brandshelter.com/registered/ orig_domain:otto.de
+bitflip_domain: elmuneo.es code:301 redirect:https://choto.xyz/vx/ytp4M orig_domain:elmundo.es
+bitflip_domain: youronlinechoises.com code:301 redirect:https://www.youronlinechoises.com/ orig_domain:youronlinechoices.com
+bitflip_domain: flipoart.com code:200
+bitflip_domain: psychologytofay.com code:200
+bitflip_domain: psycjologytoday.com code:200
+bitflip_domain: psychologitoday.com code:200
+bitflip_domain: psycholocytoday.com code:200
+bitflip_domain: agodc.com code:301 redirect:https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1451793 orig_domain:agoda.com
+bitflip_domain: rednin.com code:301 redirect:https://www.rednin.com/ orig_domain:redfin.com
+bitflip_domain: reefin.com code:302 redirect:http://ww25.reefin.com/?subid1=20240424-0922-29a4-a4fc-a68ce1114f47 orig_domain:redfin.com
+bitflip_domain: constantsontact.com code:200
+bitflip_domain: redvin.com code:200
+bitflip_domain: ir-api.com code:404
+bitflip_domain: greditkarma.com code:200
+bitflip_domain: esos.com code:200
+bitflip_domain: ktto.de code:200
+bitflip_domain: constantcojtact.com code:302 redirect:http://constantcojtact.com/?h=c36de489bf21d78b8c4 orig_domain:constantcontact.com
+bitflip_domain: redfan.com code:403
+bitflip_domain: texels.com code:200
+bitflip_domain: psyshologytoday.com code:200
+bitflip_domain: binanke.com code:302 redirect:https://accounts.binance.com/en/register?ref=AGX7KDPO orig_domain:binance.com
+bitflip_domain: wikipmdia.org code:200
+bitflip_domain: githuc.com code:200
+bitflip_domain: root-serverr.net code:200
+bitflip_domain: pintarest.com code:302 redirect:http://ww25.pintarest.com/?subid1=20240424-0923-34fd-86f9-0ce7461f0bdb orig_domain:pinterest.com
+bitflip_domain: githur.com code:302 redirect:https://kadomain.com/sell/githur.com orig_domain:github.com
+bitflip_domain: yaxoo.com code:200
+bitflip_domain: givhub.com code:200
+bitflip_domain: fithub.com code:301 redirect:http://www.fithub.com orig_domain:github.com
+bitflip_domain: tiktokt.com code:200
+bitflip_domain: gathub.com code:301 redirect:http://www.gathub.com/ orig_domain:github.com
+bitflip_domain: pinterdst.com code:200
+bitflip_domain: mikrosoftonline.com code:307
+bitflip_domain: pinterect.com code:403
+bitflip_domain: pynterest.com code:200
+bitflip_domain: pinderest.com code:403
+bitflip_domain: pinperest.com code:200
+bitflip_domain: apqle.com code:200
+bitflip_domain: whipt.com code:200
+bitflip_domain: rinterest.com code:200
+bitflip_domain: yahko.com code:200
+bitflip_domain: amczon.com code:301 redirect:https://www.amazon.com:443/ orig_domain:amazon.com
+bitflip_domain: amezon.com code:301 redirect:https://www.amazon.com:443/ orig_domain:amazon.com
+bitflip_domain: oithub.com code:302 redirect:https://koschsrealestatephotography.com/blog/ orig_domain:github.com
+bitflip_domain: lmve.com code:200
+bitflip_domain: yahok.com code:200
+bitflip_domain: pinturest.com code:307
+bitflip_domain: zmom.us code:307
+bitflip_domain: sharepoinv.com code:200
+bitflip_domain: spovify.com code:200
+bitflip_domain: spntify.com code:200
+bitflip_domain: spgtify.com code:200
+bitflip_domain: spmtify.com code:200
+bitflip_domain: maml.ru code:200
+bitflip_domain: mcil.ru code:200
+bitflip_domain: in4uit.com code:200
+bitflip_domain: skxpe.com code:403
+bitflip_domain: hntuit.com code:200
+bitflip_domain: iltuit.com code:200
+bitflip_domain: yntuit.com code:200
+bitflip_domain: meil.ru code:301 redirect:https://meil.ru/ orig_domain:mail.ru
+bitflip_domain: intuip.com code:200
+bitflip_domain: oail.ru code:200
+bitflip_domain: iail.ru code:200
