@@ -47,7 +47,7 @@ def get_team_cymru_data(ip_file: str, cyrmu_data_out_txt_file: str, cyrmu_data_o
     run_str = ["netcat", "whois.cymru.com", "43", "<", ip_file, "|", "sort", "-n", ">", cyrmu_data_out_txt_file]
   subprocess.check_output(run_str, shell=True)
   column_names = ['AS Number', 'IP', 'AS Name']
-  df = pd.read_csv(cyrmu_data_out_txt_file, sep='|', header=None, names=column_names)
+  df = pd.read_csv('your_file.csv', sep='|', header=None, names=column_names).applymap(lambda x: x.strip() if isinstance(x, str) else x)
   df.to_pickle(cyrmu_data_out_pkl_file)
 
 if __name__ == "__main__":

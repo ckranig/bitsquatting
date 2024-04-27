@@ -115,7 +115,7 @@ def generate_bitsquatted_domains(
   if out_domain_file is not None:
     with open(out_domain_file, 'w') as outfile:
       outfile.write("\n".join(generated_domains))
-  mapping_df = pd.DataFrame(mapping_rows, columns=['Original Domain', 'bitflip Domain', 'Lev Distance'])
+  mapping_df = pd.DataFrame(mapping_rows, columns=['OriginalDomain', 'bitflipDomain', 'LevDistance'])
   if out_mapping_file is not None:
     mapping_df.to_pickle(out_mapping_file)
   return mapping_df

@@ -1,0 +1,198 @@
+__author__ = 'Matthew Clairmont'
+__version__ = '1.0'
+__date__ = 'July 10, 2018'
+# Remake of the Python 2.7 version
+# VT Domain Scanner takes a file of domains, submits them to the Virus Total
+# domain scanning API and outputs the domain and AV hits to a text file.
+# If you have a private API key, you can change the sleep times to 1 for faster scanning
+
+import time
+import requests
+import csv
+from dotenv import load_dotenv
+import os
+import json
+from datetime import datetime, timezone
+
+load_dotenv()
+apikey = os.getenv("API_KEY1")
+
+requests.urllib3.disable_warnings()
+client = requests.session()
+client.verify = False
+domainErrors = []
+delay = {}
+
+
+# scan the domain to ensure results are fresh
+def DomainScanner(domain):
+    url = 'https://www.virustotal.com/vtapi/v2/url/scan'
+    params = {'apikey': apikey, 'url': domain}
+
+    # attempt connection to VT API and save response as r
+    try:
+        r = client.post(url, params=params)
+    except requests.ConnectTimeout as timeout:
+        print('Connection timed out. Error is as follows-')
+        print(timeout)
+
+    # sanitize domain after upload for safety
+    domainSani = domain.replace('.', '[.]')
+
+    print(domainSani)
+    print(r)
+
+    # handle ValueError response which may indicate an invalid key or an error with scan
+    # if an except is raised, add the domain to a list for tracking purposes
+    if r.status_code == 200:
+        try:
+            jsonResponse = r.json()
+            # print error if the scan had an issue
+            if jsonResponse['response_code'] != 1:
+                print('There was an error submitting the domain for scanning.')
+                print(jsonResponse['verbose_msg'])
+            elif jsonResponse['response_code'] == -2:
+                print('{!s} is queued for scanning.'.format(domainSani))
+                delay[domain] = 'queued'
+            else:
+                print('{!s} was scanned successfully.'.format(domainSani))
+
+        except ValueError:
+            print('There was an error when scanning {!s}. Adding domain to error list....'.format(domainSani))
+            domainErrors.append(domain)
+
+        # return domain errors for notifying user when script completes
+        time.sleep(15)  ############### IF YOU HAVE A PRIVATE ACCESS YOU CAN CHANGE THIS TO 1 ###################
+        return delay
+
+    # API TOS issue handling
+    elif r.status_code == 204:
+        print('Received HTTP 204 response. You may have exceeded your API request quota or rate limit.')
+        print('https://support.virustotal.com/hc/en-us/articles/115002118525-The-4-requests-minute-limitation-of-the-'
+              'Public-API-is-too-low-for-me-how-can-I-have-access-to-a-higher-quota-')
+        
+def ipReportReader(ip, delay):
+    g_url = f"https://www.virustotal.com/api/v3/ip_addresses/{ip}"
+    headers = {
+        "Accept": "application/json",
+        "x-apikey": apikey
+    }
+
+    # attempt connection to VT API and save response as r
+    try:
+        r = requests.request("GET", g_url, headers=headers)
+    except requests.ConnectTimeout as timeout:
+        return None, timeout
+    
+    domainSani = ip.replace('.', '[.]')
+    if r.status_code == 200:
+        try:
+            jsonResponse = json.loads(r.text)
+            analysis_date = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S") #jsonResponse['data']['attributes']['last_analysis_date']
+            analysis_stats = jsonResponse['data']['attributes']['last_analysis_stats']
+            positives = analysis_stats['malicious'] + analysis_stats['suspicious']
+            link = f"https://www.virustotal.com/gui/ip-address/{jsonResponse['data']['id']}"
+            resp = [positives, analysis_date, link]
+            #permalink = jsonResponse['permalink']
+            #scandate = jsonResponse['scan_date']
+            #positives = jsonResponse['positives']
+            #total = jsonResponse['total']
+            #data = [scandate, domainSani, positives, total, permalink]
+            return resp, None
+
+        except (ValueError, KeyError):
+            return None, Exception('There was an error when scanning {!s}. Adding domain to error list....'.format(domainSani))  
+
+    # API TOS issue handling
+    elif r.status_code == 204:
+        print('Received HTTP 204 response. You may have exceeded your API request quota or rate limit.')
+        time.sleep(15)
+        return ipReportReader(domain, delay)
+    else:
+        return None, Exception("Error in requesting page")
+
+def DomainReportReader(domain, delay):
+    # sleep 15 to control requests/min to API. Public APIs only allow for 4/min threshold,
+    # you WILL get a warning email to the owner of the account if you exceed this limit.
+    # Private API allows for tiered levels of queries/second.
+
+    url = 'https://www.virustotal.com/vtapi/v2/url/report'
+    params = {'apikey': apikey, 'resource': domain}
+
+    # attempt connection to VT API and save response as r
+    try:
+        r = client.post(url, params=params)
+    except requests.ConnectTimeout as timeout:
+        return None, timeout
+
+    # sanitize domain after upload for safety
+    domainSani = domain.replace('.', '[.]')
+    # handle ValueError response which may indicate an invalid key or an error with scan
+    # if an except is raised, add the domain to a list for tracking purposes
+    if r.status_code == 200:
+        try:
+            jsonResponse = r.json()
+            # print error if the scan had an issue
+            if jsonResponse['response_code'] == 0:
+                return None, Exception('There was an error submitting the domain for scanning.')
+
+            elif jsonResponse['response_code'] == -2:
+                return None, Exception('There was an error submitting the domain for scanning.') 
+
+            else:
+                resp = [jsonResponse['positives'], jsonResponse['scan_date'], jsonResponse['permalink']]
+                #permalink = jsonResponse['permalink']
+                #scandate = jsonResponse['scan_date']
+                #positives = jsonResponse['positives']
+                #total = jsonResponse['total']
+                #data = [scandate, domainSani, positives, total, permalink]
+                return resp, None
+
+        except (ValueError, KeyError):
+            return None, Exception('There was an error when scanning {!s}. Adding domain to error list....'.format(domainSani))  
+
+    # API TOS issue handling
+    elif r.status_code == 204:
+        print('Received HTTP 204 response. You may have exceeded your API request quota or rate limit.')
+        time.sleep(5)
+        return DomainReportReader(domain, delay)
+
+if __name__ == "__main__":
+    # open results file and write header
+    try:
+        rfile = open('results.csv', 'w+', newline='')
+        dataWriter = csv.writer(rfile, delimiter = ',')
+        header = ['Scan Date', 'Domain', '# of Positive Scans', '# of Total Scans', 'Permalink']
+        dataWriter.writerow(header)
+
+    except IOError as ioerr:
+        print('Please ensure the file is closed.')
+        print(ioerr)
+
+
+
+    ##### CHANGE TO TEXT FILE PATH. ONE DOMAIN PER LINE! #####
+    try:
+        # read domains from file and pass them to DomainScanner and DomainReportReader
+        with open('domains.txt', 'r') as infile:  # keeping the file open because it shouldnt
+                                                # be opened/modified during reading anyway
+            for domain in infile:
+                domain = domain.strip('\n')
+                try:
+                    delay = DomainScanner(domain)
+                    data = DomainReportReader(domain, delay)
+                    if data:
+                        dataWriter.writerow(data)
+                        time.sleep(15)  # wait for VT API rate limiting
+                except Exception as err:  # keeping it
+                    print('Encountered an error but scanning will continue.', err)
+
+    except IOError as ioerr:
+        print('Please ensure the file is closed.')
+        print(ioerr)
+
+    # inform the user if there were any errors encountered
+    count = len(domainErrors)
+    if count > 0:
+        print('There were {!s} errors scanning domains'.format(count))
+        print(domainErrors)

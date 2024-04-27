@@ -51,8 +51,9 @@ def query_dns(input_domain_name_file, num_threads = 1000, local_recursion = Fals
   if platform.system() == 'Windows':
     cat = 'type'
     input_domain_name_file = os.path.abspath(input_domain_name_file)
+    output_file = os.path.abspath(output_file)
 
-  run_str = [cat, input_domain_name_file + '|', 'zdns', 'A', '--ipv4-lookup', '--threads', str(num_threads),
+  run_str = [cat, input_domain_name_file + '|', 'zdns', 'A', '--threads', str(num_threads),
              '--output-file', output_file]
   if local_recursion:
     run_str.append('--iterative')
