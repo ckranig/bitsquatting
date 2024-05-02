@@ -15,5 +15,9 @@ Prerequisites:
 
 In order to easily use zdns in scripts add the zdns folder that you cloned to your path. 
 
+## Requirements
+pip install -r requirements.txt
+
 ## Running
 Running full_run.py will generate all of the data required for analysis.
+Running analysis.py will generate output for our analysis. You will need to update filepaths for new analysis.
