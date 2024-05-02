@@ -2482,3 +2482,111 @@ bitflip_domain:qdgrx.com code:301 redirect:https://www.qdgrx.com/ orig_domain:ad
 bitflip_domain:fol.com code:200
 bitflip_domain:psychologytofay.com code:200
 bitflip_domain:sportskeedi.com code:301 redirect:http://www.sportskeedi.com/ orig_domain:sportskeeda.com match:False malicous:False
+bitflip_domain:ga.me code:200
+bitflip_domain:efay.com code:301 redirect:https://efay.com/index.php orig_domain:ebay.com match:False malicous:False
+bitflip_domain:hbm.com code:301 redirect:https://www.hbm.com/ orig_domain:ibm.com match:False malicous:False
+bitflip_domain:deilymotion.com code:403
+bitflip_domain:mtsy.com code:200
+bitflip_domain:ahibaba.com code:200
+bitflip_domain:shna.com.cn code:200
+bitflip_domain:2t.ru code:301 redirect:http://hlebnitca.ru/ orig_domain:rt.ru match:False malicous:False
+bitflip_domain:googme.cn code:301 redirect:http://www.googme.cn/index.php orig_domain:google.cn match:False malicous:False
+bitflip_domain:tesli.com code:200
+bitflip_domain:dnsv5.com code:301 redirect:https://dnspod.cn orig_domain:dnsv1.com match:False malicous:False
+bitflip_domain:361.cn code:302 redirect:./web/index.php?c=account&a=display orig_domain:360.cn match:False malicous:False
+bitflip_domain:ythmg.com code:301 redirect:http://www.ythmg.com/ orig_domain:ytimg.com match:False malicous:False
+bitflip_domain:miei.com code:403
+bitflip_domain:qtt.net code:200
+bitflip_domain:2lift.com code:200
+bitflip_domain:shifan.com code:200
+bitflip_domain:tr-link.com code:301 redirect:https://tr-link.com/ orig_domain:tp-link.com match:False malicous:False
+bitflip_domain:empais.com code:200
+bitflip_domain:oota.com code:200
+bitflip_domain:ketf.org code:200
+bitflip_domain:otuo.de code:200
+bitflip_domain:a0z.com code:200
+bitflip_domain:wq.com code:200
+bitflip_domain:adraver.ru code:200
+bitflip_domain:creativeadn.com code:200
+bitflip_domain:hmchina.com code:200
+bitflip_domain:wps.com code:301 redirect:https://www.wps.com/ orig_domain:ups.com match:False malicous:False
+bitflip_domain:xboxlite.com code:404
+bitflip_domain:taorao.com code:404
+bitflip_domain:medyatek.com code:301 redirect:https://www.medyatek.com/ orig_domain:mediatek.com match:False malicous:False
+bitflip_domain:kalendly.com code:200
+bitflip_domain:alkyun.com code:403
+bitflip_domain:znho.com code:200
+bitflip_domain:drome.com code:301 redirect:https://www.ladrome.fr/ orig_domain:erome.com match:False malicous:False
+bitflip_domain:immtnet.com code:200
+bitflip_domain:redbin.com code:200
+bitflip_domain:wejex.com code:200
+bitflip_domain:goggleblog.com code:301 redirect:http://www.goggleblog.com/index.php orig_domain:googleblog.com match:False malicous:False
+bitflip_domain:coocast.com code:200
+bitflip_domain:wildy.com code:301 redirect:https://www.wildy.com/ orig_domain:wiley.com match:False malicous:False
+bitflip_domain:hychina.com code:200
+bitflip_domain:gamerass.com code:200
+bitflip_domain:tem5.com code:404
+bitflip_domain:d-online.de code:403
+bitflip_domain:rjc.ru code:200
+bitflip_domain:bilance.com code:200
+bitflip_domain:mdqi.com code:301 redirect:https://www.mdqi.com/ orig_domain:mdpi.com match:False malicous:False
+bitflip_domain:hinkedin.com code:200
+bitflip_domain:ggo.gl code:200
+bitflip_domain:eurmpa.eu code:406
+bitflip_domain:office345.com code:302 redirect:https://www.hostinger.com orig_domain:office365.com match:False malicous:False
+bitflip_domain:bisco.com code:301 redirect:https://www.bisco.com/ orig_domain:cisco.com match:False malicous:False
+bitflip_domain:aliyunss.com code:404
+bitflip_domain:aoh.com code:200
+bitflip_domain:indel.com code:301 redirect:https://www.indel.com/ orig_domain:intel.com match:False malicous:False
+bitflip_domain:hetf.org code:200
+bitflip_domain:pcca.com code:200
+bitflip_domain:googlg.cn code:404
+bitflip_domain:newc.com.au code:200
+bitflip_domain:loves.com code:301 redirect:https://www.loves.com/ orig_domain:lowes.com match:False malicous:False
+bitflip_domain:onut.pl code:200
+bitflip_domain:adrtc.com code:403
+bitflip_domain:twittes.com code:200
+bitflip_domain:worepress.com code:301 redirect:http://www.worepress.com/ orig_domain:wordpress.com match:False malicous:False
+bitflip_domain:nac.ru code:200
+bitflip_domain:akamaixd.net code:301 redirect:http://www.akamaixd.net/ orig_domain:akamaihd.net match:False malicous:False
+bitflip_domain:7sj.com code:404
+bitflip_domain:balgrid.com code:403
+bitflip_domain:liade.com code:301 redirect:https://www.lyad.fr/ orig_domain:liadm.com match:False malicous:False
+bitflip_domain:adiexpress.com code:200
+bitflip_domain:jypost.com code:403
+bitflip_domain:duomingo.com code:301 redirect:https://www.duomingo.com/ orig_domain:duolingo.com match:False malicous:False
+bitflip_domain:mtw.ru code:200
+bitflip_domain:mg.com code:301 redirect:https://www.mccourt.com orig_domain:me.com match:False malicous:False
+bitflip_domain:lns.com code:200
+bitflip_domain:coogle.cn code:301 redirect:https://coogle.cn/ orig_domain:google.cn match:False malicous:False
+bitflip_domain:xotmail.com code:301 redirect:http://www.xotmail.com/index.php orig_domain:hotmail.com match:False malicous:False
+bitflip_domain:chass.com code:406
+bitflip_domain:gmthub.com code:302 redirect:main/underconstruction/constuction1001.asp orig_domain:github.com match:False malicous:False
+bitflip_domain:rok5.com code:200
+bitflip_domain:washinftonpost.com code:200
+bitflip_domain:ph0.net code:200
+bitflip_domain:sioa.com.cn code:200
+bitflip_domain:xandex.com code:200
+bitflip_domain:gkhc.net code:301 redirect:http://www.gkhc.net/index.php orig_domain:gihc.net match:False malicous:False
+bitflip_domain:samsungagr.com code:200
+bitflip_domain:foogle.cn code:301 redirect:http://www.foogle.cn/ orig_domain:google.cn match:False malicous:False
+bitflip_domain:1drt.com code:200
+bitflip_domain:260.cn code:301 redirect:https://www.260.cn/ orig_domain:360.cn match:False malicous:False
+bitflip_domain:jimdg.com code:200
+bitflip_domain:opto.de code:302 redirect:https://opto-gmbh.com/ orig_domain:otto.de match:False malicous:False
+bitflip_domain:qsnews.com code:200
+bitflip_domain:ikloud.com code:200
+bitflip_domain:xoutu.be code:302 redirect:https://michael.team/yt/?yt=&c=d_xoutube orig_domain:youtu.be match:False malicous:False
+bitflip_domain:qkype.com code:200
+bitflip_domain:godiddy.com code:200
+bitflip_domain:alyexpress.com code:301 redirect:https://cksj1cc8723jclospcm2cjy2.xyz/icuekajck1jkcjdiuv928ckaacmkjkjkcasc/ orig_domain:aliexpress.com match:False malicous:False
+bitflip_domain:sc-gs.com code:200
+bitflip_domain:bylibili.com code:301 redirect:http://www.bylibili.com/index.php orig_domain:bilibili.com match:False malicous:False
+bitflip_domain:cdn00.com code:200
+bitflip_domain:ietb.org code:406
+bitflip_domain:strid.ru code:200
+bitflip_domain:googde.cn code:301 redirect:http://www.googde.cn/ orig_domain:google.cn match:False malicous:False
+bitflip_domain:natgear.com code:301 redirect:http://www.naturalgear.com orig_domain:netgear.com match:False malicous:False
+bitflip_domain:bdidns.com code:302 redirect:http://bdidns.com/home.html orig_domain:bdydns.com match:False malicous:False
+bitflip_domain:raybump.com code:403
+bitflip_domain:gaodi.net code:302 redirect:https://dnspod.qcloud.com/static/webblock.html?d=gaodi.net orig_domain:gandi.net match:False malicous:False

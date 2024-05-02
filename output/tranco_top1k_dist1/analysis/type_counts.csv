@@ -1,7 +1,7 @@
 Value,Count
-malicous_ip,4370
-non_malicous,2549
+malicous_ip,4407
+non_malicous,2596
 defensive_redirect,235
-unkown,173
+malicous_domain,89
 malicous_redirect,44
 defensive,27

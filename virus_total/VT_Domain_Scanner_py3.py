@@ -153,7 +153,7 @@ def DomainReportReader(domain, delay):
 
     # API TOS issue handling
     elif r.status_code == 204:
-        print('Received HTTP 204 response. You may have exceeded your API request quota or rate limit.')
+        return None, Exception('Received HTTP 204 response. You may have exceeded your API request quota or rate limit.')
         time.sleep(5)
         return DomainReportReader(domain, delay)
 

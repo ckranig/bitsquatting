@@ -22,7 +22,8 @@ ANALYSIS_TYPES = [
   'same_AS_as_owner', #Higher Probability that it is owned by Original Domain Owner
   'defensive_redirect', #Gets redirected to original domain
   'malicous_redirect' #Get redirected to a malicous domain
-  'malicous_ip', #Has at least one positive on VT for IP or Redirect
+  'malicous_ip', #Has at least one positive on VT for IP
+  'malicous_domain', #Has at least one positive on VT for Domain
   'ad_parking',
   'non_malicous', #Has no positives for an IP on VT
   'unkown' #Has not been processed
@@ -49,12 +50,11 @@ def getOutCharts(out_master_file, tranco_rank_file, analysis_out_dir):
   result_df.to_csv(os.path.join(analysis_out_dir, 'type_counts.csv'), index=False)
   counts = [
     type_counts.loc['defensive'] + type_counts.loc['defensive_redirect'],
-    type_counts.loc['malicous_ip'] + type_counts.loc['malicous_redirect'],
-    type_counts.loc['non_malicous'],
-    type_counts.loc['unkown']
+    type_counts.loc['malicous_ip'] + type_counts.loc['malicous_redirect'] + type_counts.loc['malicous_domain'],
+    type_counts.loc['non_malicous']
     ]
-  labels = ['Defensive', 'Malicous', 'Non Malicous', 'Unknown']
-  colors = ['green', 'red', 'grey', 'black']
+  labels = ['Defensive', 'Malicous', 'Non Malicous']
+  colors = ['green', 'red', 'grey']
   #plt.pie(type_counts, labels = type_counts.index, autopct=autopct_format(type_counts))
   plt.pie(counts, labels = labels, autopct=autopct_format(counts), colors=colors)
   plt.title("Bitflip Domains Per Type")
@@ -76,7 +76,7 @@ def getOutCharts(out_master_file, tranco_rank_file, analysis_out_dir):
   print(def_value_counts.head(10))
 
   print("Top Malicous Targets")
-  mal_types = {'malicous_ip', 'malicous_redirect'}
+  mal_types = {'malicous_ip', 'malicous_redirect', 'malicous_domain'}
   mal_df = out_master_df.loc[out_master_df['type'].isin(mal_types)]
   mal_value_counts = mal_df['orig_domain'].value_counts()
   result_df = pd.DataFrame({'Domain': mal_value_counts.index, 'Count': mal_value_counts.values})
@@ -133,6 +133,40 @@ def getOutCharts(out_master_file, tranco_rank_file, analysis_out_dir):
   #ax1.legend(lines1 + lines2, labels1 + labels2, loc='upper right')
   fig.suptitle('Average Malicous Bitflip Domains by String Length')
   fig.savefig(os.path.join(analysis_out_dir, 'bitflip_domains_by_string_length.png'))
+
+def process_VT_domains(out_master_file, out_vt_file, delay, num_domains):
+  types_to_process = {'non_malicous'}
+  out_master_df = pd.read_pickle(out_master_file)
+  process_domains = out_master_df.loc[out_master_df['type'].isin(types_to_process)]
+  try:
+    with open(out_vt_file, 'r') as out_f:
+      vt_data = json.load(out_f)
+  except FileNotFoundError as e:
+    vt_data = dict()
+    print(e)
+
+  completed = 0
+  for _, row in process_domains.iterrows():
+    domain = row.domain
+    if domain not in vt_data.keys(): #or vt_data[domain][3]:
+      try:
+        resp, error_code = DomainReportReader(domain, delay)
+        if error_code is not None:
+          print(f"{domain} error:{error_code}")
+          vt_data[domain] = ['','','',True]
+        else:
+          resp.append(False)
+          vt_data[domain] = resp
+      except Exception as e:
+        print(e)
+      time.sleep(delay)
+      completed += 1
+      print(f"completed: {completed}")
+      if completed >= num_domains:
+        break
+
+  with open(out_vt_file, 'w') as out_f:
+    json.dump(vt_data, out_f)
 
 def process_VT(ip_file, output_file, start, end, delay):
   with open(ip_file) as f:
@@ -202,15 +236,33 @@ def get_top_unkown_ips(out_master_file, out_ip_file):
       #print(f"IP: {ip}, Count: {count}")
       f.write(f"{ip}\n")
 
-def classify_2(ip_2_vt_file, out_master_file):
+MALICOUS_DOMAINS = {
+  "choto.xyz",
+  "136.243.255.89",
+  "thktokcdn.com",
+  "ytiog.com"
+}
+def classify_2(ip_2_vt_file, domain_2_vt_File, out_master_file):
   #Check if domain is malicous or redirects
+  types_to_process = {'non_malicous', 'unkown'}
   out_master_df = pd.read_pickle(out_master_file)
-  unkown_rows = out_master_df.loc[out_master_df.type == 'unkown']
+  rows_to_process = out_master_df.loc[out_master_df['type'].isin(types_to_process)]
   new_out_master = out_master_df.set_index('domain').to_dict('index')
   with open(ip_2_vt_file, 'r') as f:
     ip_2_vt_data = json.load(f)
+  try:
+    with open(domain_2_vt_File, 'r') as f:
+      domain_2_vt_data = json.load(f)
+  except Exception as e:
+    print(e)
+    domain_2_vt_data = dict()
   
-  for index, row in unkown_rows.iterrows():
+  for _, row in rows_to_process.iterrows():
+    domain = row.domain
+    if ((domain in domain_2_vt_data.keys() and domain_2_vt_data[domain][3] == False and domain_2_vt_data[domain][0] > 0)
+      or domain in MALICOUS_DOMAINS):
+      new_out_master[row.domain]['type'] = 'malicous_domain'
+      continue
     bitflip_ips = row.ips
     for ip in bitflip_ips:
       if ip in ip_2_vt_data.keys():
@@ -224,16 +276,12 @@ def classify_2(ip_2_vt_file, out_master_file):
           new_out_master[row.domain]['type'] = 'non_malicous'
   new_out_master_df = pd.DataFrame.from_dict(new_out_master, orient='index').reset_index(names='domain')
   new_out_master_df.to_pickle(out_master_file)
-  print(f"unknown:{len(new_out_master_df.loc[new_out_master_df.type == 'unkown'])} known:{len(new_out_master_df.loc[new_out_master_df.type != 'unkown'])}")
+  print(new_out_master_df['type'].value_counts())
 
 OTHER_MATCHING = {
   "cdninstagram.com" : "instagram.com",
   "unity3d.com"      : "unity.com",
   "timeweb.ru"       : "timeweb.com\/ru\/"
-}
-MALICOUS_DOMAINS = {
-  "choto.xyz",
-  "136.243.255.89"
 }
 def check_domains(domains_origs):
   timeout_seconds = 3
@@ -356,6 +404,7 @@ if __name__ == "__main__":
   DOMAIN_TO_IP_FILE = os.path.join(BASE_NAME, "domain_2_ip_file.pkl")
   UNKOWN_IPS = os.path.join(BASE_NAME, "unkown_ips.txt")
   OUT_MASTER = os.path.join(BASE_NAME, "out_master.pkl")
+  DOMAIN_TO_VT = os.path.join(BASE_NAME, "domain_to_vt.json")
   IP_TO_VT = os.path.join(BASE_NAME, "ip_to_vt.json")
   IP_TO_OWNER = os.path.join(BASE_NAME, "orig_domain_to_owner.txt")
   CYMRU_FILE = os.path.join(BASE_NAME, "cymru_output.pkl")
@@ -363,16 +412,17 @@ if __name__ == "__main__":
   ANALYSIS_OUT_DIR = os.path.join(BASE_NAME, "analysis")
   TRANCO_RANK_FILE = "data/tranco_11FEB24-11MAR24.csv"
   #FULL RUN After VT
-  #classify_1(DOMAIN_TO_IP_FILE, BITFLIP_DOMAIN_TO_ORIGINAL_DOMAIN_FILE, OUT_MASTER)
-  #classify_2(IP_TO_VT, OUT_MASTER)
+  classify_1(DOMAIN_TO_IP_FILE, BITFLIP_DOMAIN_TO_ORIGINAL_DOMAIN_FILE, OUT_MASTER)
+  classify_2(IP_TO_VT, OUT_MASTER)
   classify_3(OUT_MASTER, SEARCHED_DOMAINS)
   #gen_ip_to_owner(DOMAIN_TO_IP_FILE, OUT_MASTER, IP_TO_OWNER, CYMRU_FILE)
 
   #During Testing
-  #for i in range(16):
-  #  get_top_unkown_ips(OUT_MASTER, UNKOWN_IPS)
-  #  process_VT(UNKOWN_IPS, IP_TO_VT, 0, 20, delay = 15)
-  #  classify_2(IP_TO_VT, OUT_MASTER)
-
+  #for i in range(10):
+  #process_VT_domains(OUT_MASTER, DOMAIN_TO_VT, 15, 50)
+  #get_top_unkown_ips(OUT_MASTER, UNKOWN_IPS)
+  #process_VT(UNKOWN_IPS, IP_TO_VT, 0, 20, delay = 15)
+  #classify_2(IP_TO_VT, DOMAIN_TO_VT, OUT_MASTER)
+  #classify_3(OUT_MASTER, SEARCHED_DOMAINS)
   #Stats
   getOutCharts(OUT_MASTER, TRANCO_RANK_FILE, ANALYSIS_OUT_DIR)
